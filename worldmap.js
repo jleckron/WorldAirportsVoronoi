@@ -10,7 +10,8 @@ var proj = d3.geoOrthographic()
     .scale(scale)
     .translate([width / 2, height / 2 + 10])
 // change this to 180 for transparent globe
-    .clipAngle(90);
+    .clipAngle(90)
+    .rotate([90,-20,0]);
 
 
 var path = d3.geoPath().projection(proj).pointRadius(3);
@@ -42,7 +43,8 @@ svg.call(d3.zoom()
 // Source of world topojson data and airport data
 // https://github.com/topojson/world-atlas
 src = [  "https://unpkg.com/world-atlas@1/world/110m.json",
-        "airports.json"
+         "airports.json",
+         "https://unpkg.com/world-atlas@1/world/110m.json"
      ];
 
 var cells;
@@ -51,6 +53,7 @@ Promise.all(src.map(url => d3.json(url))).then(function(values){
     
     world=values[0];
     places=values[1];
+    world50=values[2];
     
     console.log("World Values", world);
     console.log("Airports", places);
