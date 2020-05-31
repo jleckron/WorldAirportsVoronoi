@@ -94,7 +94,7 @@ Promise.all(src.map(url => d3.json(url))).then(function(values){
         .data(topojson.feature(world, world.objects.countries).features)
         .enter()
         .append("path")
-        .attr("d", path); 
+        .attr("d", path);
     
     polygon = svg.append("g")
         .selectAll("cell")
@@ -136,10 +136,6 @@ function findcell(m) {
 
 // Updates various parameters after drag/zoom functions
 function refresh() {
-    svg.selectAll(".land").attr("d", path);
-    svg.selectAll(".countries path").attr("d", path);
-    svg.selectAll(".graticule").attr("d", path);
-    svg.selectAll(".point").attr("d", path);
     svg.selectAll("circle").attr("r", proj.scale());
     svg.selectAll("path").attr("d", path);
 
