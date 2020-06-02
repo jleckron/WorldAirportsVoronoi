@@ -125,9 +125,13 @@ function moved() {
 function findcell(m) {
     polygon.on("mouseover", function (d) {
         var point = d3.select(this);
-        var name = point._groups[0][0].__data__.properties.site.properties.name;
         point._groups[0][0].style.fill = "blue";
-        text.text("Closest large airport: " + name);
+        var name = point._groups[0][0].__data__.properties.site.properties.name;   
+        var country = point._groups[0][0].__data__.properties.site.properties.country;
+        var municipality = point._groups[0][0].__data__.properties.site.properties.municipality
+        country = getCountryName(country);
+        console.log("Country = ", country);
+        text.text("Closest large airport: " + name + ", " + municipality + ", " + country);
     })    
     .on("mouseout", function (d) {
         var point = d3.select(this);
