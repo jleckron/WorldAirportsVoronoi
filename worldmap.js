@@ -1,6 +1,6 @@
 // World Airports Voronoi Diagram Inspired by the Following Projects:
-//  - https://observablehq.com/@mbostock/world-airports-voronoi
-//  - https://observablehq.com/@d3/versor-dragging
+// - https://observablehq.com/@mbostock/world-airports-voronoi
+// - https://observablehq.com/@d3/versor-dragging
 
 
 // Globe code sourced extensively from 
@@ -42,10 +42,12 @@ svg.append("rect")
 // Call functions on user interaction
 svg.call(d3.drag()
          .on("start", dragstarted)
-         .on("drag", dragged));
+         .on("drag", dragged)
+         .on("end", revert));
          
 svg.call(d3.zoom()
-         .on("zoom", zoomed));
+         .on("zoom", zoomed)
+         .on("end", revert));
 
 // Source of world topojson data and airport data
 // https://github.com/topojson/world-atlas
@@ -54,7 +56,8 @@ var src = [  "https://unpkg.com/world-atlas@1/world/110m.json",
              "airports.json"
         ];
 
-var cells;
+var cells, world110, world50;
+var moving = false;
 // Converted d4.v4 queue implementation to promise .then imlpementation
 Promise.all(src.map(url => d3.json(url))).then(function(values){
     
@@ -62,7 +65,7 @@ Promise.all(src.map(url => d3.json(url))).then(function(values){
     world50=values[1];
     places=values[2];
     
-    console.log("World Values", world110);
+    console.log("World Values", world50);
     console.log("Airports", places);
     
     cells = d3.geoVoronoi()(places);
@@ -78,7 +81,7 @@ Promise.all(src.map(url => d3.json(url))).then(function(values){
     
     // Draws outline of continents
     svg.append("path")
-        .datum(topojson.feature(world110, world110.objects.land))
+        .datum(topojson.feature(world50, world50.objects.land))
         .attr("class", "land")
         .attr("d", path);
 
@@ -99,7 +102,7 @@ Promise.all(src.map(url => d3.json(url))).then(function(values){
      
   
     // Draws outlines of countries
-    svg.append("g").attr("class","countries")
+    svg.append("g").attr("class", "countries")
         .selectAll("path")
         .data(topojson.feature(world110, world110.objects.countries).features)
         .enter()
@@ -151,16 +154,18 @@ function findcell(m) {
 }
     
 
-// Updates various parameters after drag/zoom functions
+// Updates circle and path parameters after drag/zoom functions
 function refresh() {
+    // When moving, set the path to 110m for greater responsivness
+    svg.selectAll(".land").data(topojson.feature(world110, world110.objects.land).features).enter();
     svg.selectAll("circle").attr("r", proj.scale());
     svg.selectAll("path").attr("d", path);
+
 }
 
 
 // Dragging functionality sourced from
-// https://observablehq.com/@d3/versor-dragging
-    
+// https://observablehq.com/@d3/versor-dragging 
 function dragstarted() {
     v0 = versor.cartesian(proj.invert(d3.mouse(this)));
     r0 = proj.rotate();
@@ -179,4 +184,10 @@ function dragged() {
 function zoomed(){
     proj.scale(scale*d3.event.transform.k);
     refresh();
+}
+
+// Sets land path back to 50m for greater detail
+function revert(){
+    svg.selectAll(".land").data(topojson.feature(world50, world50.objects.land).features).enter();
+    svg.selectAll("path").attr("d", path);
 }
