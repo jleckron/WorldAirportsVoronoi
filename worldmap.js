@@ -26,9 +26,9 @@ var graticule = d3.geoGraticule();
   
 
 var svg = d3.select("body").append("svg")
-            .attr("width", width)
-            .attr("height", height)
-            .on("mousemove", moved);
+        .attr("width", width)
+        .attr("height", height)
+        .on("mousemove", moved);
     
 // Draws outline around svg element
 svg.append("rect")
@@ -41,28 +41,28 @@ svg.append("rect")
 
 // Call functions on user interaction
 svg.call(d3.drag()
-        .on("start", dragstarted)
-        .on("drag", dragged));
+         .on("start", dragstarted)
+         .on("drag", dragged));
          
 svg.call(d3.zoom()
-    .on("zoom", zoomed));
+         .on("zoom", zoomed));
 
 // Source of world topojson data and airport data
 // https://github.com/topojson/world-atlas
 var src = [  "https://unpkg.com/world-atlas@1/world/110m.json",
-             "airports.json",
-             "https://unpkg.com/world-atlas@1/world/110m.json"
+             "https://unpkg.com/world-atlas@1/world/50m.json",
+             "airports.json"
         ];
 
 var cells;
 // Converted d4.v4 queue implementation to promise .then imlpementation
 Promise.all(src.map(url => d3.json(url))).then(function(values){
     
-    world=values[0];
-    places=values[1];
-    world50=values[2];
+    world110=values[0];
+    world50=values[1];
+    places=values[2];
     
-    console.log("World Values", world);
+    console.log("World Values", world110);
     console.log("Airports", places);
     
     cells = d3.geoVoronoi()(places);
@@ -78,7 +78,7 @@ Promise.all(src.map(url => d3.json(url))).then(function(values){
     
     // Draws outline of continents
     svg.append("path")
-        .datum(topojson.feature(world, world.objects.land))
+        .datum(topojson.feature(world110, world110.objects.land))
         .attr("class", "land")
         .attr("d", path);
 
@@ -101,7 +101,7 @@ Promise.all(src.map(url => d3.json(url))).then(function(values){
     // Draws outlines of countries
     svg.append("g").attr("class","countries")
         .selectAll("path")
-        .data(topojson.feature(world, world.objects.countries).features)
+        .data(topojson.feature(world110, world110.objects.countries).features)
         .enter()
         .append("path")
         .attr("d", path);
@@ -127,7 +127,7 @@ Promise.all(src.map(url => d3.json(url))).then(function(values){
 
 // When mouse moves on canvas, find closest cell
 function moved() {
-  findcell(proj.invert(d3.mouse(this)));
+    findcell(proj.invert(d3.mouse(this)));
 }
 
 // Inspired by https://bl.ocks.org/Fil/e94fc45f5ed4dbcc989be1e52b797fdd
@@ -140,7 +140,6 @@ function findcell(m) {
         var country = point._groups[0][0].__data__.properties.site.properties.country;
         var municipality = point._groups[0][0].__data__.properties.site.properties.municipality
         country = getCountryName(country);
-        console.log("Country = ", country);
         text.text("Closest large airport: " + name + ", " + municipality + ", " + country);
     })    
     // If user leaves an area, set highlight to none and reset text
@@ -156,7 +155,6 @@ function findcell(m) {
 function refresh() {
     svg.selectAll("circle").attr("r", proj.scale());
     svg.selectAll("path").attr("d", path);
-
 }
 
 
