@@ -9,7 +9,7 @@
 
 var width = 960,
     height = 750,
-    scale = 350;
+    scale = 325;
 
 var proj = d3.geoOrthographic()
     .scale(scale)
@@ -122,8 +122,9 @@ Promise.all(src.map(url => d3.json(url))).then(function(values){
     
     // Append text to show highlighted airport area
     text = svg.append("text")
-        .attr("x", 30)
-        .attr("y", 30)
+        .attr("x", width/2)
+        .attr("y", height-20)
+        .attr("text-anchor", "middle")
         .style("fill", "black")
         .text("Hover over an area");
 })
@@ -143,7 +144,13 @@ function findcell(m) {
         var country = point._groups[0][0].__data__.properties.site.properties.country;
         var municipality = point._groups[0][0].__data__.properties.site.properties.municipality
         country = getCountryName(country);
-        text.text("Closest large airport: " + name + ", " + municipality + ", " + country);
+        if(name.length>0){
+            name += ", ";
+        }
+        if(municipality.length>0){
+            municipality += ", ";
+        }
+        text.text("Closest large airport: " + name + municipality + country);
     })    
     // If user leaves an area, set highlight to none and reset text
     .on("mouseout", function (d) {

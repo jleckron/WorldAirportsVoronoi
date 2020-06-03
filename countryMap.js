@@ -208,6 +208,8 @@ var isoCountries = {
     'ES' : 'Spain',
     'LK' : 'Sri Lanka',
     'SD' : 'Sudan',
+    'SS' : 'South Sudan',
+    'SX' : 'Sint Maarten',
     'SR' : 'Suriname',
     'SJ' : 'Svalbard And Jan Mayen',
     'SZ' : 'Swaziland',
@@ -243,6 +245,7 @@ var isoCountries = {
     'VI' : 'Virgin Islands, U.S.',
     'WF' : 'Wallis And Futuna',
     'EH' : 'Western Sahara',
+    'XK' : 'Kosovo',
     'YE' : 'Yemen',
     'ZM' : 'Zambia',
     'ZW' : 'Zimbabwe'

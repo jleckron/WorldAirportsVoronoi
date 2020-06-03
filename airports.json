@@ -14,7 +14,8 @@
                 "name": "Port Moresby Jacksons International Airport",
                 "country": "PG",
                 "region": "PG-NCD",
-                "municipality": "Port Moresby"
+                "municipality": "Port Moresby",
+                "iata": "POM"
             }
         },
         {
@@ -30,7 +31,8 @@
                 "name": "Keflavik International Airport",
                 "country": "IS",
                 "region": "IS-2",
-                "municipality": "Reykjavík"
+                "municipality": "Reykjavík",
+                "iata": "KEF"
             }
         },
         {
@@ -46,23 +48,8 @@
                 "name": "Priština International Airport",
                 "country": "XK",
                 "region": "XK-01",
-                "municipality": "Prishtina"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    117.63201,
-                    36.001741
-                ]
-            },
-            "properties": {
-                "name": "Guodu air base",
-                "country": "CN",
-                "region": "CN-U-A",
-                "municipality": ""
+                "municipality": "Prishtina",
+                "iata": "PRN"
             }
         },
         {
@@ -78,7 +65,8 @@
                 "name": "Edmonton International Airport",
                 "country": "CA",
                 "region": "CA-AB",
-                "municipality": "Edmonton"
+                "municipality": "Edmonton",
+                "iata": "YEG"
             }
         },
         {
@@ -94,7 +82,8 @@
                 "name": "Halifax / Stanfield International Airport",
                 "country": "CA",
                 "region": "CA-NS",
-                "municipality": "Halifax"
+                "municipality": "Halifax",
+                "iata": "YHZ"
             }
         },
         {
@@ -110,7 +99,8 @@
                 "name": "Ottawa Macdonald-Cartier International Airport",
                 "country": "CA",
                 "region": "CA-ON",
-                "municipality": "Ottawa"
+                "municipality": "Ottawa",
+                "iata": "YOW"
             }
         },
         {
@@ -126,7 +116,8 @@
                 "name": "Montreal / Pierre Elliott Trudeau International Airport",
                 "country": "CA",
                 "region": "CA-QC",
-                "municipality": "Montréal"
+                "municipality": "Montréal",
+                "iata": "YUL"
             }
         },
         {
@@ -142,7 +133,8 @@
                 "name": "Vancouver International Airport",
                 "country": "CA",
                 "region": "CA-BC",
-                "municipality": "Vancouver"
+                "municipality": "Vancouver",
+                "iata": "YVR"
             }
         },
         {
@@ -158,7 +150,8 @@
                 "name": "Winnipeg / James Armstrong Richardson International Airport",
                 "country": "CA",
                 "region": "CA-MB",
-                "municipality": "Winnipeg"
+                "municipality": "Winnipeg",
+                "iata": "YWG"
             }
         },
         {
@@ -174,7 +167,8 @@
                 "name": "Calgary International Airport",
                 "country": "CA",
                 "region": "CA-AB",
-                "municipality": "Calgary"
+                "municipality": "Calgary",
+                "iata": "YYC"
             }
         },
         {
@@ -190,7 +184,8 @@
                 "name": "Victoria International Airport",
                 "country": "CA",
                 "region": "CA-BC",
-                "municipality": "Victoria"
+                "municipality": "Victoria",
+                "iata": "YYJ"
             }
         },
         {
@@ -206,7 +201,8 @@
                 "name": "St. John's International Airport",
                 "country": "CA",
                 "region": "CA-NL",
-                "municipality": "St. John's"
+                "municipality": "St. John's",
+                "iata": "YYT"
             }
         },
         {
@@ -222,7 +218,8 @@
                 "name": "Lester B. Pearson International Airport",
                 "country": "CA",
                 "region": "CA-ON",
-                "municipality": "Toronto"
+                "municipality": "Toronto",
+                "iata": "YYZ"
             }
         },
         {
@@ -238,7 +235,8 @@
                 "name": "Houari Boumediene Airport",
                 "country": "DZ",
                 "region": "DZ-35",
-                "municipality": "Algiers"
+                "municipality": "Algiers",
+                "iata": "ALG"
             }
         },
         {
@@ -254,7 +252,8 @@
                 "name": "Ouagadougou Airport",
                 "country": "BF",
                 "region": "BF-KAD",
-                "municipality": "Ouagadougou"
+                "municipality": "Ouagadougou",
+                "iata": "OUA"
             }
         },
         {
@@ -270,7 +269,8 @@
                 "name": "Kotoka International Airport",
                 "country": "GH",
                 "region": "GH-AA",
-                "municipality": "Accra"
+                "municipality": "Accra",
+                "iata": "ACC"
             }
         },
         {
@@ -286,7 +286,8 @@
                 "name": "Nnamdi Azikiwe International Airport",
                 "country": "NG",
                 "region": "NG-FC",
-                "municipality": "Abuja"
+                "municipality": "Abuja",
+                "iata": "ABV"
             }
         },
         {
@@ -302,7 +303,8 @@
                 "name": "Akwa Ibom International Airport",
                 "country": "NG",
                 "region": "NG-AK",
-                "municipality": "Uyo"
+                "municipality": "Uyo",
+                "iata": "QUO"
             }
         },
         {
@@ -318,7 +320,8 @@
                 "name": "Mallam Aminu International Airport",
                 "country": "NG",
                 "region": "NG-KN",
-                "municipality": "Kano"
+                "municipality": "Kano",
+                "iata": "KAN"
             }
         },
         {
@@ -334,7 +337,8 @@
                 "name": "Murtala Muhammed International Airport",
                 "country": "NG",
                 "region": "NG-LA",
-                "municipality": "Lagos"
+                "municipality": "Lagos",
+                "iata": "LOS"
             }
         },
         {
@@ -350,7 +354,8 @@
                 "name": "Diori Hamani International Airport",
                 "country": "NE",
                 "region": "NE-8",
-                "municipality": "Niamey"
+                "municipality": "Niamey",
+                "iata": "NIM"
             }
         },
         {
@@ -366,7 +371,8 @@
                 "name": "Tunis Carthage International Airport",
                 "country": "TN",
                 "region": "TN-11",
-                "municipality": "Tunis"
+                "municipality": "Tunis",
+                "iata": "TUN"
             }
         },
         {
@@ -382,7 +388,8 @@
                 "name": "Brussels Airport",
                 "country": "BE",
                 "region": "BE-BRU",
-                "municipality": "Brussels"
+                "municipality": "Brussels",
+                "iata": "BRU"
             }
         },
         {
@@ -398,7 +405,8 @@
                 "name": "Brussels South Charleroi Airport",
                 "country": "BE",
                 "region": "BE-WHT",
-                "municipality": "Brussels"
+                "municipality": "Brussels",
+                "iata": "CRL"
             }
         },
         {
@@ -414,7 +422,8 @@
                 "name": "Liège Airport",
                 "country": "BE",
                 "region": "BE-WLG",
-                "municipality": "Liège"
+                "municipality": "Liège",
+                "iata": "LGG"
             }
         },
         {
@@ -430,7 +439,8 @@
                 "name": "Berlin-Schönefeld Airport",
                 "country": "DE",
                 "region": "DE-BR",
-                "municipality": "Berlin"
+                "municipality": "Berlin",
+                "iata": "SXF"
             }
         },
         {
@@ -446,7 +456,8 @@
                 "name": "Dresden Airport",
                 "country": "DE",
                 "region": "DE-SN",
-                "municipality": "Dresden"
+                "municipality": "Dresden",
+                "iata": "DRS"
             }
         },
         {
@@ -462,7 +473,8 @@
                 "name": "Frankfurt am Main Airport",
                 "country": "DE",
                 "region": "DE-HE",
-                "municipality": "Frankfurt am Main"
+                "municipality": "Frankfurt am Main",
+                "iata": "FRA"
             }
         },
         {
@@ -478,7 +490,8 @@
                 "name": "Münster Osnabrück Airport",
                 "country": "DE",
                 "region": "DE-NW",
-                "municipality": "Münster"
+                "municipality": "Münster",
+                "iata": "FMO"
             }
         },
         {
@@ -494,7 +507,8 @@
                 "name": "Hamburg Airport",
                 "country": "DE",
                 "region": "DE-HH",
-                "municipality": "Hamburg"
+                "municipality": "Hamburg",
+                "iata": "HAM"
             }
         },
         {
@@ -510,7 +524,8 @@
                 "name": "Cologne Bonn Airport",
                 "country": "DE",
                 "region": "DE-NW",
-                "municipality": "Cologne"
+                "municipality": "Cologne",
+                "iata": "CGN"
             }
         },
         {
@@ -526,7 +541,8 @@
                 "name": "Düsseldorf Airport",
                 "country": "DE",
                 "region": "DE-NW",
-                "municipality": "Düsseldorf"
+                "municipality": "Düsseldorf",
+                "iata": "DUS"
             }
         },
         {
@@ -542,7 +558,8 @@
                 "name": "Munich Airport",
                 "country": "DE",
                 "region": "DE-BY",
-                "municipality": "Munich"
+                "municipality": "Munich",
+                "iata": "MUC"
             }
         },
         {
@@ -558,7 +575,8 @@
                 "name": "Nuremberg Airport",
                 "country": "DE",
                 "region": "DE-BY",
-                "municipality": "Nuremberg"
+                "municipality": "Nuremberg",
+                "iata": "NUE"
             }
         },
         {
@@ -574,7 +592,8 @@
                 "name": "Leipzig/Halle Airport",
                 "country": "DE",
                 "region": "DE-SN",
-                "municipality": "Leipzig"
+                "municipality": "Leipzig",
+                "iata": "LEJ"
             }
         },
         {
@@ -590,7 +609,8 @@
                 "name": "Stuttgart Airport",
                 "country": "DE",
                 "region": "DE-BW",
-                "municipality": "Stuttgart"
+                "municipality": "Stuttgart",
+                "iata": "STR"
             }
         },
         {
@@ -606,7 +626,8 @@
                 "name": "Berlin-Tegel Airport",
                 "country": "DE",
                 "region": "DE-BE",
-                "municipality": "Berlin"
+                "municipality": "Berlin",
+                "iata": "TXL"
             }
         },
         {
@@ -622,7 +643,8 @@
                 "name": "Hannover Airport",
                 "country": "DE",
                 "region": "DE-NI",
-                "municipality": "Hannover"
+                "municipality": "Hannover",
+                "iata": "HAJ"
             }
         },
         {
@@ -638,7 +660,8 @@
                 "name": "Bremen Airport",
                 "country": "DE",
                 "region": "DE-HB",
-                "municipality": "Bremen"
+                "municipality": "Bremen",
+                "iata": "BRE"
             }
         },
         {
@@ -654,7 +677,8 @@
                 "name": "Dortmund Airport",
                 "country": "DE",
                 "region": "DE-NW",
-                "municipality": "Dortmund"
+                "municipality": "Dortmund",
+                "iata": "DTM"
             }
         },
         {
@@ -670,7 +694,8 @@
                 "name": "Karlsruhe Baden-Baden Airport",
                 "country": "DE",
                 "region": "DE-BW",
-                "municipality": "Baden-Baden"
+                "municipality": "Baden-Baden",
+                "iata": "FKB"
             }
         },
         {
@@ -686,7 +711,8 @@
                 "name": "Lennart Meri Tallinn Airport",
                 "country": "EE",
                 "region": "EE-37",
-                "municipality": "Tallinn"
+                "municipality": "Tallinn",
+                "iata": "TLL"
             }
         },
         {
@@ -702,7 +728,8 @@
                 "name": "Helsinki Vantaa Airport",
                 "country": "FI",
                 "region": "FI-ES",
-                "municipality": "Helsinki"
+                "municipality": "Helsinki",
+                "iata": "HEL"
             }
         },
         {
@@ -718,7 +745,8 @@
                 "name": "Belfast International Airport",
                 "country": "GB",
                 "region": "GB-NIR",
-                "municipality": "Belfast"
+                "municipality": "Belfast",
+                "iata": "BFS"
             }
         },
         {
@@ -734,7 +762,8 @@
                 "name": "George Best Belfast City Airport",
                 "country": "GB",
                 "region": "GB-NIR",
-                "municipality": "Belfast"
+                "municipality": "Belfast",
+                "iata": "BHD"
             }
         },
         {
@@ -750,7 +779,8 @@
                 "name": "Birmingham International Airport",
                 "country": "GB",
                 "region": "GB-ENG",
-                "municipality": "Birmingham"
+                "municipality": "Birmingham",
+                "iata": "BHX"
             }
         },
         {
@@ -766,7 +796,8 @@
                 "name": "Manchester Airport",
                 "country": "GB",
                 "region": "GB-ENG",
-                "municipality": "Manchester"
+                "municipality": "Manchester",
+                "iata": "MAN"
             }
         },
         {
@@ -782,7 +813,8 @@
                 "name": "Robin Hood Doncaster Sheffield Airport",
                 "country": "GB",
                 "region": "GB-ENG",
-                "municipality": "Doncaster"
+                "municipality": "Doncaster",
+                "iata": "DSA"
             }
         },
         {
@@ -798,7 +830,8 @@
                 "name": "Cardiff International Airport",
                 "country": "GB",
                 "region": "GB-WLS",
-                "municipality": "Cardiff"
+                "municipality": "Cardiff",
+                "iata": "CWL"
             }
         },
         {
@@ -814,7 +847,8 @@
                 "name": "Bristol Airport",
                 "country": "GB",
                 "region": "GB-ENG",
-                "municipality": "Bristol"
+                "municipality": "Bristol",
+                "iata": "BRS"
             }
         },
         {
@@ -830,7 +864,8 @@
                 "name": "Liverpool John Lennon Airport",
                 "country": "GB",
                 "region": "GB-ENG",
-                "municipality": "Liverpool"
+                "municipality": "Liverpool",
+                "iata": "LPL"
             }
         },
         {
@@ -846,7 +881,8 @@
                 "name": "London Luton Airport",
                 "country": "GB",
                 "region": "GB-ENG",
-                "municipality": "London"
+                "municipality": "London",
+                "iata": "LTN"
             }
         },
         {
@@ -862,7 +898,8 @@
                 "name": "Bournemouth Airport",
                 "country": "GB",
                 "region": "GB-ENG",
-                "municipality": "Bournemouth"
+                "municipality": "Bournemouth",
+                "iata": "BOH"
             }
         },
         {
@@ -878,7 +915,8 @@
                 "name": "Southampton Airport",
                 "country": "GB",
                 "region": "GB-ENG",
-                "municipality": "Southampton"
+                "municipality": "Southampton",
+                "iata": "SOU"
             }
         },
         {
@@ -894,7 +932,8 @@
                 "name": "London Gatwick Airport",
                 "country": "GB",
                 "region": "GB-ENG",
-                "municipality": "London"
+                "municipality": "London",
+                "iata": "LGW"
             }
         },
         {
@@ -910,7 +949,8 @@
                 "name": "London Heathrow Airport",
                 "country": "GB",
                 "region": "GB-ENG",
-                "municipality": "London"
+                "municipality": "London",
+                "iata": "LHR"
             }
         },
         {
@@ -926,7 +966,8 @@
                 "name": "Leeds Bradford Airport",
                 "country": "GB",
                 "region": "GB-ENG",
-                "municipality": "Leeds"
+                "municipality": "Leeds",
+                "iata": "LBA"
             }
         },
         {
@@ -942,7 +983,8 @@
                 "name": "Newcastle Airport",
                 "country": "GB",
                 "region": "GB-ENG",
-                "municipality": "Newcastle"
+                "municipality": "Newcastle",
+                "iata": "NCL"
             }
         },
         {
@@ -958,7 +1000,8 @@
                 "name": "East Midlands Airport",
                 "country": "GB",
                 "region": "GB-ENG",
-                "municipality": "Nottingham"
+                "municipality": "Nottingham",
+                "iata": "EMA"
             }
         },
         {
@@ -974,7 +1017,8 @@
                 "name": "Aberdeen Dyce Airport",
                 "country": "GB",
                 "region": "GB-SCT",
-                "municipality": "Aberdeen"
+                "municipality": "Aberdeen",
+                "iata": "ABZ"
             }
         },
         {
@@ -990,7 +1034,8 @@
                 "name": "Glasgow International Airport",
                 "country": "GB",
                 "region": "GB-SCT",
-                "municipality": "Glasgow"
+                "municipality": "Glasgow",
+                "iata": "GLA"
             }
         },
         {
@@ -1006,7 +1051,8 @@
                 "name": "Edinburgh Airport",
                 "country": "GB",
                 "region": "GB-SCT",
-                "municipality": "Edinburgh"
+                "municipality": "Edinburgh",
+                "iata": "EDI"
             }
         },
         {
@@ -1022,7 +1068,8 @@
                 "name": "Norwich International Airport",
                 "country": "GB",
                 "region": "GB-ENG",
-                "municipality": "Norwich"
+                "municipality": "Norwich",
+                "iata": "NWI"
             }
         },
         {
@@ -1038,7 +1085,8 @@
                 "name": "London Stansted Airport",
                 "country": "GB",
                 "region": "GB-ENG",
-                "municipality": "London"
+                "municipality": "London",
+                "iata": "STN"
             }
         },
         {
@@ -1054,7 +1102,8 @@
                 "name": "Exeter International Airport",
                 "country": "GB",
                 "region": "GB-ENG",
-                "municipality": "Exeter"
+                "municipality": "Exeter",
+                "iata": "EXT"
             }
         },
         {
@@ -1070,7 +1119,8 @@
                 "name": "RAF Lakenheath",
                 "country": "GB",
                 "region": "GB-ENG",
-                "municipality": "Lakenheath"
+                "municipality": "Lakenheath",
+                "iata": "LKZ"
             }
         },
         {
@@ -1086,7 +1136,8 @@
                 "name": "RAF Mildenhall",
                 "country": "GB",
                 "region": "GB-ENG",
-                "municipality": "Mildenhall"
+                "municipality": "Mildenhall",
+                "iata": "MHZ"
             }
         },
         {
@@ -1102,7 +1153,8 @@
                 "name": "RAF Fairford",
                 "country": "GB",
                 "region": "GB-ENG",
-                "municipality": "Fairford"
+                "municipality": "Fairford",
+                "iata": "FFD"
             }
         },
         {
@@ -1118,7 +1170,8 @@
                 "name": "RAF Brize Norton",
                 "country": "GB",
                 "region": "GB-ENG",
-                "municipality": "Brize Norton"
+                "municipality": "Brize Norton",
+                "iata": "BZZ"
             }
         },
         {
@@ -1134,7 +1187,8 @@
                 "name": "Amsterdam Airport Schiphol",
                 "country": "NL",
                 "region": "NL-NH",
-                "municipality": "Amsterdam"
+                "municipality": "Amsterdam",
+                "iata": "AMS"
             }
         },
         {
@@ -1150,7 +1204,8 @@
                 "name": "Eindhoven Airport",
                 "country": "NL",
                 "region": "NL-NB",
-                "municipality": "Eindhoven"
+                "municipality": "Eindhoven",
+                "iata": "EIN"
             }
         },
         {
@@ -1166,7 +1221,8 @@
                 "name": "Cork Airport",
                 "country": "IE",
                 "region": "IE-C",
-                "municipality": "Cork"
+                "municipality": "Cork",
+                "iata": "ORK"
             }
         },
         {
@@ -1182,7 +1238,8 @@
                 "name": "Dublin Airport",
                 "country": "IE",
                 "region": "IE-D",
-                "municipality": "Dublin"
+                "municipality": "Dublin",
+                "iata": "DUB"
             }
         },
         {
@@ -1198,7 +1255,8 @@
                 "name": "Shannon Airport",
                 "country": "IE",
                 "region": "IE-CE",
-                "municipality": "Shannon"
+                "municipality": "Shannon",
+                "iata": "SNN"
             }
         },
         {
@@ -1214,7 +1272,8 @@
                 "name": "Billund Airport",
                 "country": "DK",
                 "region": "DK-83",
-                "municipality": "Billund"
+                "municipality": "Billund",
+                "iata": "BLL"
             }
         },
         {
@@ -1230,7 +1289,8 @@
                 "name": "Copenhagen Kastrup Airport",
                 "country": "DK",
                 "region": "DK-84",
-                "municipality": "Copenhagen"
+                "municipality": "Copenhagen",
+                "iata": "CPH"
             }
         },
         {
@@ -1246,7 +1306,8 @@
                 "name": "Aalborg Airport",
                 "country": "DK",
                 "region": "DK-81",
-                "municipality": "Aalborg"
+                "municipality": "Aalborg",
+                "iata": "AAL"
             }
         },
         {
@@ -1262,7 +1323,8 @@
                 "name": "Luxembourg-Findel International Airport",
                 "country": "LU",
                 "region": "LU-L",
-                "municipality": "Luxembourg"
+                "municipality": "Luxembourg",
+                "iata": "LUX"
             }
         },
         {
@@ -1278,7 +1340,8 @@
                 "name": "Bodø Airport",
                 "country": "NO",
                 "region": "NO-18",
-                "municipality": "Bodø"
+                "municipality": "Bodø",
+                "iata": "BOO"
             }
         },
         {
@@ -1294,7 +1357,8 @@
                 "name": "Bergen Airport Flesland",
                 "country": "NO",
                 "region": "NO-12",
-                "municipality": "Bergen"
+                "municipality": "Bergen",
+                "iata": "BGO"
             }
         },
         {
@@ -1310,7 +1374,8 @@
                 "name": "Oslo Gardermoen Airport",
                 "country": "NO",
                 "region": "NO-02",
-                "municipality": "Oslo"
+                "municipality": "Oslo",
+                "iata": "OSL"
             }
         },
         {
@@ -1326,7 +1391,8 @@
                 "name": "Tromsø Airport",
                 "country": "NO",
                 "region": "NO-19",
-                "municipality": "Tromsø"
+                "municipality": "Tromsø",
+                "iata": "TOS"
             }
         },
         {
@@ -1342,7 +1408,8 @@
                 "name": "Trondheim Airport Værnes",
                 "country": "NO",
                 "region": "NO-17",
-                "municipality": "Trondheim"
+                "municipality": "Trondheim",
+                "iata": "TRD"
             }
         },
         {
@@ -1358,7 +1425,8 @@
                 "name": "Stavanger Airport Sola",
                 "country": "NO",
                 "region": "NO-11",
-                "municipality": "Stavanger"
+                "municipality": "Stavanger",
+                "iata": "SVG"
             }
         },
         {
@@ -1374,7 +1442,8 @@
                 "name": "Gdańsk Lech Wałęsa Airport",
                 "country": "PL",
                 "region": "PL-PM",
-                "municipality": "Gdańsk"
+                "municipality": "Gdańsk",
+                "iata": "GDN"
             }
         },
         {
@@ -1390,7 +1459,8 @@
                 "name": "Kraków John Paul II International Airport",
                 "country": "PL",
                 "region": "PL-MA",
-                "municipality": "Kraków"
+                "municipality": "Kraków",
+                "iata": "KRK"
             }
         },
         {
@@ -1406,7 +1476,8 @@
                 "name": "Katowice International Airport",
                 "country": "PL",
                 "region": "PL-SL",
-                "municipality": "Katowice"
+                "municipality": "Katowice",
+                "iata": "KTW"
             }
         },
         {
@@ -1422,7 +1493,8 @@
                 "name": "Modlin Airport",
                 "country": "PL",
                 "region": "PL-MZ",
-                "municipality": "Warsaw"
+                "municipality": "Warsaw",
+                "iata": "WMI"
             }
         },
         {
@@ -1438,7 +1510,8 @@
                 "name": "Poznań-Ławica Airport",
                 "country": "PL",
                 "region": "PL-WP",
-                "municipality": "Poznań"
+                "municipality": "Poznań",
+                "iata": "POZ"
             }
         },
         {
@@ -1454,7 +1527,8 @@
                 "name": "Warsaw Chopin Airport",
                 "country": "PL",
                 "region": "PL-MZ",
-                "municipality": "Warsaw"
+                "municipality": "Warsaw",
+                "iata": "WAW"
             }
         },
         {
@@ -1470,7 +1544,8 @@
                 "name": "Copernicus Wrocław Airport",
                 "country": "PL",
                 "region": "PL-DS",
-                "municipality": "Wrocław"
+                "municipality": "Wrocław",
+                "iata": "WRO"
             }
         },
         {
@@ -1486,7 +1561,8 @@
                 "name": "Gothenburg-Landvetter Airport",
                 "country": "SE",
                 "region": "SE-Q",
-                "municipality": "Gothenburg"
+                "municipality": "Gothenburg",
+                "iata": "GOT"
             }
         },
         {
@@ -1502,7 +1578,8 @@
                 "name": "Malmö Sturup Airport",
                 "country": "SE",
                 "region": "SE-M",
-                "municipality": "Malmö"
+                "municipality": "Malmö",
+                "iata": "MMX"
             }
         },
         {
@@ -1518,7 +1595,8 @@
                 "name": "Luleå Airport",
                 "country": "SE",
                 "region": "SE-BD",
-                "municipality": "Luleå"
+                "municipality": "Luleå",
+                "iata": "LLA"
             }
         },
         {
@@ -1534,23 +1612,8 @@
                 "name": "Stockholm-Arlanda Airport",
                 "country": "SE",
                 "region": "SE-AB",
-                "municipality": "Stockholm"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.600279808044434,
-                    49.4369010925293
-                ]
-            },
-            "properties": {
-                "name": "Ramstein Air Base",
-                "country": "DE",
-                "region": "DE-RP",
-                "municipality": "Ramstein"
+                "municipality": "Stockholm",
+                "iata": "ARN"
             }
         },
         {
@@ -1566,7 +1629,8 @@
                 "name": "Riga International Airport",
                 "country": "LV",
                 "region": "LV-RIX",
-                "municipality": "Riga"
+                "municipality": "Riga",
+                "iata": "RIX"
             }
         },
         {
@@ -1582,7 +1646,8 @@
                 "name": "Vilnius International Airport",
                 "country": "LT",
                 "region": "LT-VL",
-                "municipality": "Vilnius"
+                "municipality": "Vilnius",
+                "iata": "VNO"
             }
         },
         {
@@ -1598,7 +1663,8 @@
                 "name": "Cape Town International Airport",
                 "country": "ZA",
                 "region": "ZA-WC",
-                "municipality": "Cape Town"
+                "municipality": "Cape Town",
+                "iata": "CPT"
             }
         },
         {
@@ -1614,7 +1680,8 @@
                 "name": "George Airport",
                 "country": "ZA",
                 "region": "ZA-WC",
-                "municipality": "George"
+                "municipality": "George",
+                "iata": "GRJ"
             }
         },
         {
@@ -1630,7 +1697,8 @@
                 "name": "OR Tambo International Airport",
                 "country": "ZA",
                 "region": "ZA-GT",
-                "municipality": "Johannesburg"
+                "municipality": "Johannesburg",
+                "iata": "JNB"
             }
         },
         {
@@ -1646,7 +1714,8 @@
                 "name": "King Shaka International Airport",
                 "country": "ZA",
                 "region": "ZA-NL",
-                "municipality": "Durban"
+                "municipality": "Durban",
+                "iata": "DUR"
             }
         },
         {
@@ -1662,7 +1731,8 @@
                 "name": "OR Tambo International Airport",
                 "country": "ZA",
                 "region": "ZA-GT",
-                "municipality": "Johannesburg"
+                "municipality": "Johannesburg",
+                "iata": "JNB"
             }
         },
         {
@@ -1678,7 +1748,8 @@
                 "name": "Sir Seretse Khama International Airport",
                 "country": "BW",
                 "region": "BW-SE",
-                "municipality": "Gaborone"
+                "municipality": "Gaborone",
+                "iata": "GBE"
             }
         },
         {
@@ -1694,7 +1765,8 @@
                 "name": "Sir Seewoosagur Ramgoolam International Airport",
                 "country": "MU",
                 "region": "MU-GP",
-                "municipality": "Port Louis"
+                "municipality": "Port Louis",
+                "iata": "MRU"
             }
         },
         {
@@ -1710,7 +1782,8 @@
                 "name": "Kenneth Kaunda International Airport",
                 "country": "ZM",
                 "region": "ZM-09",
-                "municipality": "Lusaka"
+                "municipality": "Lusaka",
+                "iata": "LUN"
             }
         },
         {
@@ -1726,7 +1799,8 @@
                 "name": "Ivato Airport",
                 "country": "MG",
                 "region": "MG-T",
-                "municipality": "Antananarivo"
+                "municipality": "Antananarivo",
+                "iata": "TNR"
             }
         },
         {
@@ -1742,7 +1816,8 @@
                 "name": "Quatro de Fevereiro Airport",
                 "country": "AO",
                 "region": "AO-LUA",
-                "municipality": "Luanda"
+                "municipality": "Luanda",
+                "iata": "LAD"
             }
         },
         {
@@ -1758,7 +1833,8 @@
                 "name": "Maputo Airport",
                 "country": "MZ",
                 "region": "MZ-MPM",
-                "municipality": "Maputo"
+                "municipality": "Maputo",
+                "iata": "MPM"
             }
         },
         {
@@ -1774,7 +1850,8 @@
                 "name": "Seychelles International Airport",
                 "country": "SC",
                 "region": "SC-20",
-                "municipality": "Mahe Island"
+                "municipality": "Mahe Island",
+                "iata": "SEZ"
             }
         },
         {
@@ -1790,7 +1867,8 @@
                 "name": "N'Djamena International Airport",
                 "country": "TD",
                 "region": "TD-CB",
-                "municipality": "N'Djamena"
+                "municipality": "N'Djamena",
+                "iata": "NDJ"
             }
         },
         {
@@ -1806,7 +1884,8 @@
                 "name": "Robert Gabriel Mugabe International Airport",
                 "country": "ZW",
                 "region": "ZW-HA",
-                "municipality": "Harare"
+                "municipality": "Harare",
+                "iata": "HRE"
             }
         },
         {
@@ -1822,7 +1901,8 @@
                 "name": "Hosea Kutako International Airport",
                 "country": "NA",
                 "region": "NA-KH",
-                "municipality": "Windhoek"
+                "municipality": "Windhoek",
+                "iata": "WDH"
             }
         },
         {
@@ -1838,7 +1918,8 @@
                 "name": "Ndjili International Airport",
                 "country": "CD",
                 "region": "CD-KN",
-                "municipality": "Kinshasa"
+                "municipality": "Kinshasa",
+                "iata": "FIH"
             }
         },
         {
@@ -1854,7 +1935,8 @@
                 "name": "Modibo Keita International Airport",
                 "country": "ML",
                 "region": "ML-2",
-                "municipality": "Bamako"
+                "municipality": "Bamako",
+                "iata": "BKO"
             }
         },
         {
@@ -1870,7 +1952,8 @@
                 "name": "La Palma Airport",
                 "country": "ES",
                 "region": "ES-CN",
-                "municipality": "Sta Cruz de la Palma, La Palma Island"
+                "municipality": "Santa Cruz de la Palma, La Palma Island",
+                "iata": "SPC"
             }
         },
         {
@@ -1886,7 +1969,8 @@
                 "name": "Gran Canaria Airport",
                 "country": "ES",
                 "region": "ES-CN",
-                "municipality": "Gran Canaria Island"
+                "municipality": "Gran Canaria Island",
+                "iata": "LPA"
             }
         },
         {
@@ -1902,7 +1986,8 @@
                 "name": "Tenerife South Airport",
                 "country": "ES",
                 "region": "ES-CN",
-                "municipality": "Tenerife Island"
+                "municipality": "Tenerife Island",
+                "iata": "TFS"
             }
         },
         {
@@ -1918,7 +2003,8 @@
                 "name": "Tenerife Norte Airport",
                 "country": "ES",
                 "region": "ES-CN",
-                "municipality": "Tenerife Island"
+                "municipality": "Tenerife Island",
+                "iata": "TFN"
             }
         },
         {
@@ -1934,7 +2020,8 @@
                 "name": "Lungi International Airport",
                 "country": "SL",
                 "region": "SL-N",
-                "municipality": "Freetown"
+                "municipality": "Freetown",
+                "iata": "FNA"
             }
         },
         {
@@ -1950,7 +2037,8 @@
                 "name": "Roberts International Airport",
                 "country": "LR",
                 "region": "LR-MG",
-                "municipality": "Monrovia"
+                "municipality": "Monrovia",
+                "iata": "ROB"
             }
         },
         {
@@ -1966,7 +2054,8 @@
                 "name": "Mohammed V International Airport",
                 "country": "MA",
                 "region": "MA-CAS",
-                "municipality": "Casablanca"
+                "municipality": "Casablanca",
+                "iata": "CMN"
             }
         },
         {
@@ -1982,7 +2071,8 @@
                 "name": "Blaise Diagne International Airport",
                 "country": "SN",
                 "region": "SN-DK",
-                "municipality": "Dakar"
+                "municipality": "Dakar",
+                "iata": "DSS"
             }
         },
         {
@@ -1998,7 +2088,8 @@
                 "name": "Léopold Sédar Senghor International Airport",
                 "country": "SN",
                 "region": "SN-DK",
-                "municipality": "Dakar"
+                "municipality": "Dakar",
+                "iata": "DKR"
             }
         },
         {
@@ -2014,7 +2105,8 @@
                 "name": "Nouakchott–Oumtounsy International Airport",
                 "country": "MR",
                 "region": "MR-NKC",
-                "municipality": "Nouakchott"
+                "municipality": "Nouakchott",
+                "iata": "NKC"
             }
         },
         {
@@ -2030,7 +2122,8 @@
                 "name": "Amílcar Cabral International Airport",
                 "country": "CV",
                 "region": "CV-B",
-                "municipality": "Espargos"
+                "municipality": "Espargos",
+                "iata": "SID"
             }
         },
         {
@@ -2046,7 +2139,8 @@
                 "name": "Addis Ababa Bole International Airport",
                 "country": "ET",
                 "region": "ET-AA",
-                "municipality": "Addis Ababa"
+                "municipality": "Addis Ababa",
+                "iata": "ADD"
             }
         },
         {
@@ -2062,7 +2156,8 @@
                 "name": "Egal International Airport",
                 "country": "SO",
                 "region": "SO-WO",
-                "municipality": "Hargeisa"
+                "municipality": "Hargeisa",
+                "iata": "HGA"
             }
         },
         {
@@ -2078,7 +2173,8 @@
                 "name": "Cairo International Airport",
                 "country": "EG",
                 "region": "EG-C",
-                "municipality": "Cairo"
+                "municipality": "Cairo",
+                "iata": "CAI"
             }
         },
         {
@@ -2094,7 +2190,8 @@
                 "name": "Hurghada International Airport",
                 "country": "EG",
                 "region": "EG-BA",
-                "municipality": "Hurghada"
+                "municipality": "Hurghada",
+                "iata": "HRG"
             }
         },
         {
@@ -2110,7 +2207,8 @@
                 "name": "Luxor International Airport",
                 "country": "EG",
                 "region": "EG-KN",
-                "municipality": "Luxor"
+                "municipality": "Luxor",
+                "iata": "LXR"
             }
         },
         {
@@ -2126,7 +2224,8 @@
                 "name": "Jomo Kenyatta International Airport",
                 "country": "KE",
                 "region": "KE-110",
-                "municipality": "Nairobi"
+                "municipality": "Nairobi",
+                "iata": "NBO"
             }
         },
         {
@@ -2142,7 +2241,8 @@
                 "name": "Mombasa Moi International Airport",
                 "country": "KE",
                 "region": "KE-300",
-                "municipality": "Mombasa"
+                "municipality": "Mombasa",
+                "iata": "MBA"
             }
         },
         {
@@ -2158,7 +2258,8 @@
                 "name": "Tripoli International Airport",
                 "country": "LY",
                 "region": "LY-TB",
-                "municipality": "Tripoli"
+                "municipality": "Tripoli",
+                "iata": "TIP"
             }
         },
         {
@@ -2174,7 +2275,8 @@
                 "name": "Kigali International Airport",
                 "country": "RW",
                 "region": "RW-01",
-                "municipality": "Kigali"
+                "municipality": "Kigali",
+                "iata": "KGL"
             }
         },
         {
@@ -2190,7 +2292,8 @@
                 "name": "Juba International Airport",
                 "country": "SS",
                 "region": "SS-17",
-                "municipality": "Juba"
+                "municipality": "Juba",
+                "iata": "JUB"
             }
         },
         {
@@ -2206,7 +2309,8 @@
                 "name": "Khartoum International Airport",
                 "country": "SD",
                 "region": "SD-03",
-                "municipality": "Khartoum"
+                "municipality": "Khartoum",
+                "iata": "KRT"
             }
         },
         {
@@ -2222,7 +2326,8 @@
                 "name": "Julius Nyerere International Airport",
                 "country": "TZ",
                 "region": "TZ-02",
-                "municipality": "Dar es Salaam"
+                "municipality": "Dar es Salaam",
+                "iata": "DAR"
             }
         },
         {
@@ -2238,7 +2343,8 @@
                 "name": "Abeid Amani Karume International Airport",
                 "country": "TZ",
                 "region": "TZ-07",
-                "municipality": "Zanzibar"
+                "municipality": "Zanzibar",
+                "iata": "ZNZ"
             }
         },
         {
@@ -2254,7 +2360,8 @@
                 "name": "Entebbe International Airport",
                 "country": "UG",
                 "region": "UG-C",
-                "municipality": "Kampala"
+                "municipality": "Kampala",
+                "iata": "EBB"
             }
         },
         {
@@ -2270,7 +2377,8 @@
                 "name": "Aji Pangeran Tumenggung Pranoto International Airport",
                 "country": "ID",
                 "region": "ID-KI",
-                "municipality": "Samarinda"
+                "municipality": "Samarinda",
+                "iata": "AAP"
             }
         },
         {
@@ -2286,7 +2394,8 @@
                 "name": "O R Tambo International",
                 "country": "ZA",
                 "region": "ZA-U-A",
-                "municipality": "Johannesburg"
+                "municipality": "Johannesburg",
+                "iata": "JNB"
             }
         },
         {
@@ -2302,7 +2411,8 @@
                 "name": "Albuquerque International Sunport",
                 "country": "US",
                 "region": "US-NM",
-                "municipality": "Albuquerque"
+                "municipality": "Albuquerque",
+                "iata": "ABQ"
             }
         },
         {
@@ -2318,7 +2428,8 @@
                 "name": "Joint Base Andrews",
                 "country": "US",
                 "region": "US-MD",
-                "municipality": "Camp Springs"
+                "municipality": "Camp Springs",
+                "iata": "ADW"
             }
         },
         {
@@ -2334,7 +2445,8 @@
                 "name": "Fort Worth Alliance Airport",
                 "country": "US",
                 "region": "US-TX",
-                "municipality": "Fort Worth"
+                "municipality": "Fort Worth",
+                "iata": "AFW"
             }
         },
         {
@@ -2350,7 +2462,8 @@
                 "name": "Augusta Regional At Bush Field",
                 "country": "US",
                 "region": "US-GA",
-                "municipality": "Augusta"
+                "municipality": "Augusta",
+                "iata": "AGS"
             }
         },
         {
@@ -2366,7 +2479,8 @@
                 "name": "Rick Husband Amarillo International Airport",
                 "country": "US",
                 "region": "US-TX",
-                "municipality": "Amarillo"
+                "municipality": "Amarillo",
+                "iata": "AMA"
             }
         },
         {
@@ -2382,7 +2496,8 @@
                 "name": "Hartsfield Jackson Atlanta International Airport",
                 "country": "US",
                 "region": "US-GA",
-                "municipality": "Atlanta"
+                "municipality": "Atlanta",
+                "iata": "ATL"
             }
         },
         {
@@ -2398,7 +2513,8 @@
                 "name": "Austin Bergstrom International Airport",
                 "country": "US",
                 "region": "US-TX",
-                "municipality": "Austin"
+                "municipality": "Austin",
+                "iata": "AUS"
             }
         },
         {
@@ -2414,7 +2530,8 @@
                 "name": "Asheville Regional Airport",
                 "country": "US",
                 "region": "US-NC",
-                "municipality": "Asheville"
+                "municipality": "Asheville",
+                "iata": "AVL"
             }
         },
         {
@@ -2430,7 +2547,8 @@
                 "name": "Bradley International Airport",
                 "country": "US",
                 "region": "US-CT",
-                "municipality": "Hartford"
+                "municipality": "Hartford",
+                "iata": "BDL"
             }
         },
         {
@@ -2446,7 +2564,8 @@
                 "name": "Boeing Field King County International Airport",
                 "country": "US",
                 "region": "US-WA",
-                "municipality": "Seattle"
+                "municipality": "Seattle",
+                "iata": "BFI"
             }
         },
         {
@@ -2462,7 +2581,8 @@
                 "name": "Bangor International Airport",
                 "country": "US",
                 "region": "US-ME",
-                "municipality": "Bangor"
+                "municipality": "Bangor",
+                "iata": "BGR"
             }
         },
         {
@@ -2478,7 +2598,8 @@
                 "name": "Birmingham-Shuttlesworth International Airport",
                 "country": "US",
                 "region": "US-AL",
-                "municipality": "Birmingham"
+                "municipality": "Birmingham",
+                "iata": "BHM"
             }
         },
         {
@@ -2494,7 +2615,8 @@
                 "name": "Billings Logan International Airport",
                 "country": "US",
                 "region": "US-MT",
-                "municipality": "Billings"
+                "municipality": "Billings",
+                "iata": "BIL"
             }
         },
         {
@@ -2510,7 +2632,8 @@
                 "name": "Scott AFB/Midamerica Airport",
                 "country": "US",
                 "region": "US-IL",
-                "municipality": "Belleville"
+                "municipality": "Belleville",
+                "iata": "BLV"
             }
         },
         {
@@ -2526,7 +2649,8 @@
                 "name": "Central Illinois Regional Airport at Bloomington-Normal",
                 "country": "US",
                 "region": "US-IL",
-                "municipality": "Bloomington/Normal"
+                "municipality": "Bloomington/Normal",
+                "iata": "BMI"
             }
         },
         {
@@ -2542,7 +2666,8 @@
                 "name": "Nashville International Airport",
                 "country": "US",
                 "region": "US-TN",
-                "municipality": "Nashville"
+                "municipality": "Nashville",
+                "iata": "BNA"
             }
         },
         {
@@ -2558,7 +2683,8 @@
                 "name": "Boise Air Terminal/Gowen Field",
                 "country": "US",
                 "region": "US-ID",
-                "municipality": "Boise"
+                "municipality": "Boise",
+                "iata": "BOI"
             }
         },
         {
@@ -2574,7 +2700,8 @@
                 "name": "General Edward Lawrence Logan International Airport",
                 "country": "US",
                 "region": "US-MA",
-                "municipality": "Boston"
+                "municipality": "Boston",
+                "iata": "BOS"
             }
         },
         {
@@ -2590,7 +2717,8 @@
                 "name": "Buffalo Niagara International Airport",
                 "country": "US",
                 "region": "US-NY",
-                "municipality": "Buffalo"
+                "municipality": "Buffalo",
+                "iata": "BUF"
             }
         },
         {
@@ -2606,7 +2734,8 @@
                 "name": "Baltimore/Washington International Thurgood Marshall Airport",
                 "country": "US",
                 "region": "US-MD",
-                "municipality": "Baltimore"
+                "municipality": "Baltimore",
+                "iata": "BWI"
             }
         },
         {
@@ -2622,7 +2751,8 @@
                 "name": "Columbia Metropolitan Airport",
                 "country": "US",
                 "region": "US-SC",
-                "municipality": "Columbia"
+                "municipality": "Columbia",
+                "iata": "CAE"
             }
         },
         {
@@ -2638,7 +2768,8 @@
                 "name": "Lovell Field",
                 "country": "US",
                 "region": "US-TN",
-                "municipality": "Chattanooga"
+                "municipality": "Chattanooga",
+                "iata": "CHA"
             }
         },
         {
@@ -2654,7 +2785,8 @@
                 "name": "The Eastern Iowa Airport",
                 "country": "US",
                 "region": "US-IA",
-                "municipality": "Cedar Rapids"
+                "municipality": "Cedar Rapids",
+                "iata": "CID"
             }
         },
         {
@@ -2670,7 +2802,8 @@
                 "name": "Cleveland Hopkins International Airport",
                 "country": "US",
                 "region": "US-OH",
-                "municipality": "Cleveland"
+                "municipality": "Cleveland",
+                "iata": "CLE"
             }
         },
         {
@@ -2686,7 +2819,8 @@
                 "name": "Charlotte Douglas International Airport",
                 "country": "US",
                 "region": "US-NC",
-                "municipality": "Charlotte"
+                "municipality": "Charlotte",
+                "iata": "CLT"
             }
         },
         {
@@ -2702,7 +2836,8 @@
                 "name": "John Glenn Columbus International Airport",
                 "country": "US",
                 "region": "US-OH",
-                "municipality": "Columbus"
+                "municipality": "Columbus",
+                "iata": "CMH"
             }
         },
         {
@@ -2718,7 +2853,8 @@
                 "name": "City of Colorado Springs Municipal Airport",
                 "country": "US",
                 "region": "US-CO",
-                "municipality": "Colorado Springs"
+                "municipality": "Colorado Springs",
+                "iata": "COS"
             }
         },
         {
@@ -2734,7 +2870,8 @@
                 "name": "Corpus Christi International Airport",
                 "country": "US",
                 "region": "US-TX",
-                "municipality": "Corpus Christi"
+                "municipality": "Corpus Christi",
+                "iata": "CRP"
             }
         },
         {
@@ -2750,7 +2887,8 @@
                 "name": "Yeager Airport",
                 "country": "US",
                 "region": "US-WV",
-                "municipality": "Charleston"
+                "municipality": "Charleston",
+                "iata": "CRW"
             }
         },
         {
@@ -2766,7 +2904,8 @@
                 "name": "Cincinnati Northern Kentucky International Airport",
                 "country": "US",
                 "region": "US-KY",
-                "municipality": "Cincinnati"
+                "municipality": "Cincinnati",
+                "iata": "CVG"
             }
         },
         {
@@ -2782,7 +2921,8 @@
                 "name": "Daytona Beach International Airport",
                 "country": "US",
                 "region": "US-FL",
-                "municipality": "Daytona Beach"
+                "municipality": "Daytona Beach",
+                "iata": "DAB"
             }
         },
         {
@@ -2798,7 +2938,8 @@
                 "name": "Dallas Love Field",
                 "country": "US",
                 "region": "US-TX",
-                "municipality": "Dallas"
+                "municipality": "Dallas",
+                "iata": "DAL"
             }
         },
         {
@@ -2814,7 +2955,8 @@
                 "name": "James M Cox Dayton International Airport",
                 "country": "US",
                 "region": "US-OH",
-                "municipality": "Dayton"
+                "municipality": "Dayton",
+                "iata": "DAY"
             }
         },
         {
@@ -2830,7 +2972,8 @@
                 "name": "Dubuque Regional Airport",
                 "country": "US",
                 "region": "US-IA",
-                "municipality": "Dubuque"
+                "municipality": "Dubuque",
+                "iata": "DBQ"
             }
         },
         {
@@ -2846,7 +2989,8 @@
                 "name": "Ronald Reagan Washington National Airport",
                 "country": "US",
                 "region": "US-DC",
-                "municipality": "Washington"
+                "municipality": "Washington",
+                "iata": "DCA"
             }
         },
         {
@@ -2862,7 +3006,8 @@
                 "name": "Denver International Airport",
                 "country": "US",
                 "region": "US-CO",
-                "municipality": "Denver"
+                "municipality": "Denver",
+                "iata": "DEN"
             }
         },
         {
@@ -2878,7 +3023,8 @@
                 "name": "Dallas Fort Worth International Airport",
                 "country": "US",
                 "region": "US-TX",
-                "municipality": "Dallas-Fort Worth"
+                "municipality": "Dallas-Fort Worth",
+                "iata": "DFW"
             }
         },
         {
@@ -2894,7 +3040,8 @@
                 "name": "DLF Airport",
                 "country": "US",
                 "region": "US-TX",
-                "municipality": "Del Rio"
+                "municipality": "Del Rio",
+                "iata": "DLF"
             }
         },
         {
@@ -2910,7 +3057,8 @@
                 "name": "Duluth International Airport",
                 "country": "US",
                 "region": "US-MN",
-                "municipality": "Duluth"
+                "municipality": "Duluth",
+                "iata": "DLH"
             }
         },
         {
@@ -2926,7 +3074,8 @@
                 "name": "Des Moines International Airport",
                 "country": "US",
                 "region": "US-IA",
-                "municipality": "Des Moines"
+                "municipality": "Des Moines",
+                "iata": "DSM"
             }
         },
         {
@@ -2942,7 +3091,8 @@
                 "name": "Detroit Metropolitan Wayne County Airport",
                 "country": "US",
                 "region": "US-MI",
-                "municipality": "Detroit"
+                "municipality": "Detroit",
+                "iata": "DTW"
             }
         },
         {
@@ -2958,7 +3108,8 @@
                 "name": "Erie International Tom Ridge Field",
                 "country": "US",
                 "region": "US-PA",
-                "municipality": "Erie"
+                "municipality": "Erie",
+                "iata": "ERI"
             }
         },
         {
@@ -2974,7 +3125,8 @@
                 "name": "Newark Liberty International Airport",
                 "country": "US",
                 "region": "US-NJ",
-                "municipality": "Newark"
+                "municipality": "Newark",
+                "iata": "EWR"
             }
         },
         {
@@ -2990,7 +3142,8 @@
                 "name": "Fort Lauderdale Hollywood International Airport",
                 "country": "US",
                 "region": "US-FL",
-                "municipality": "Fort Lauderdale"
+                "municipality": "Fort Lauderdale",
+                "iata": "FLL"
             }
         },
         {
@@ -3006,7 +3159,8 @@
                 "name": "Fort Smith Regional Airport",
                 "country": "US",
                 "region": "US-AR",
-                "municipality": "Fort Smith"
+                "municipality": "Fort Smith",
+                "iata": "FSM"
             }
         },
         {
@@ -3022,7 +3176,8 @@
                 "name": "Fort Worth Meacham International Airport",
                 "country": "US",
                 "region": "US-TX",
-                "municipality": "Fort Worth"
+                "municipality": "Fort Worth",
+                "iata": "FTW"
             }
         },
         {
@@ -3038,7 +3193,8 @@
                 "name": "Fort Wayne International Airport",
                 "country": "US",
                 "region": "US-IN",
-                "municipality": "Fort Wayne"
+                "municipality": "Fort Wayne",
+                "iata": "FWA"
             }
         },
         {
@@ -3054,7 +3210,8 @@
                 "name": "Spokane International Airport",
                 "country": "US",
                 "region": "US-WA",
-                "municipality": "Spokane"
+                "municipality": "Spokane",
+                "iata": "GEG"
             }
         },
         {
@@ -3070,7 +3227,8 @@
                 "name": "Gulfport Biloxi International Airport",
                 "country": "US",
                 "region": "US-MS",
-                "municipality": "Gulfport"
+                "municipality": "Gulfport",
+                "iata": "GPT"
             }
         },
         {
@@ -3086,7 +3244,8 @@
                 "name": "Austin Straubel International Airport",
                 "country": "US",
                 "region": "US-WI",
-                "municipality": "Green Bay"
+                "municipality": "Green Bay",
+                "iata": "GRB"
             }
         },
         {
@@ -3102,7 +3261,8 @@
                 "name": "Piedmont Triad International Airport",
                 "country": "US",
                 "region": "US-NC",
-                "municipality": "Greensboro"
+                "municipality": "Greensboro",
+                "iata": "GSO"
             }
         },
         {
@@ -3118,7 +3278,8 @@
                 "name": "Greenville Spartanburg International Airport",
                 "country": "US",
                 "region": "US-SC",
-                "municipality": "Greenville"
+                "municipality": "Greenville",
+                "iata": "GSP"
             }
         },
         {
@@ -3134,7 +3295,8 @@
                 "name": "Grissom Air Reserve Base",
                 "country": "US",
                 "region": "US-IN",
-                "municipality": "Peru"
+                "municipality": "Peru",
+                "iata": "GUS"
             }
         },
         {
@@ -3150,7 +3312,8 @@
                 "name": "Range Regional Airport",
                 "country": "US",
                 "region": "US-MN",
-                "municipality": "Hibbing"
+                "municipality": "Hibbing",
+                "iata": "HIB"
             }
         },
         {
@@ -3166,7 +3329,8 @@
                 "name": "William P Hobby Airport",
                 "country": "US",
                 "region": "US-TX",
-                "municipality": "Houston"
+                "municipality": "Houston",
+                "iata": "HOU"
             }
         },
         {
@@ -3182,7 +3346,8 @@
                 "name": "Huntsville International Carl T Jones Field",
                 "country": "US",
                 "region": "US-AL",
-                "municipality": "Huntsville"
+                "municipality": "Huntsville",
+                "iata": "HSV"
             }
         },
         {
@@ -3198,7 +3363,8 @@
                 "name": "Tri-State/Milton J. Ferguson Field",
                 "country": "US",
                 "region": "US-WV",
-                "municipality": "Huntington"
+                "municipality": "Huntington",
+                "iata": "HTS"
             }
         },
         {
@@ -3214,7 +3380,8 @@
                 "name": "Washington Dulles International Airport",
                 "country": "US",
                 "region": "US-DC",
-                "municipality": "Washington"
+                "municipality": "Washington",
+                "iata": "IAD"
             }
         },
         {
@@ -3230,7 +3397,8 @@
                 "name": "George Bush Intercontinental Houston Airport",
                 "country": "US",
                 "region": "US-TX",
-                "municipality": "Houston"
+                "municipality": "Houston",
+                "iata": "IAH"
             }
         },
         {
@@ -3246,7 +3414,8 @@
                 "name": "Wichita Eisenhower National Airport",
                 "country": "US",
                 "region": "US-KS",
-                "municipality": "Wichita"
+                "municipality": "Wichita",
+                "iata": "ICT"
             }
         },
         {
@@ -3262,7 +3431,8 @@
                 "name": "Indianapolis International Airport",
                 "country": "US",
                 "region": "US-IN",
-                "municipality": "Indianapolis"
+                "municipality": "Indianapolis",
+                "iata": "IND"
             }
         },
         {
@@ -3278,7 +3448,8 @@
                 "name": "Jackson-Medgar Wiley Evers International Airport",
                 "country": "US",
                 "region": "US-MS",
-                "municipality": "Jackson"
+                "municipality": "Jackson",
+                "iata": "JAN"
             }
         },
         {
@@ -3294,7 +3465,8 @@
                 "name": "Jacksonville International Airport",
                 "country": "US",
                 "region": "US-FL",
-                "municipality": "Jacksonville"
+                "municipality": "Jacksonville",
+                "iata": "JAX"
             }
         },
         {
@@ -3310,7 +3482,8 @@
                 "name": "John F Kennedy International Airport",
                 "country": "US",
                 "region": "US-NY",
-                "municipality": "New York"
+                "municipality": "New York",
+                "iata": "JFK"
             }
         },
         {
@@ -3326,7 +3499,8 @@
                 "name": "Joplin Regional Airport",
                 "country": "US",
                 "region": "US-MO",
-                "municipality": "Joplin"
+                "municipality": "Joplin",
+                "iata": "JLN"
             }
         },
         {
@@ -3342,7 +3516,8 @@
                 "name": "McCarran International Airport",
                 "country": "US",
                 "region": "US-NV",
-                "municipality": "Las Vegas"
+                "municipality": "Las Vegas",
+                "iata": "LAS"
             }
         },
         {
@@ -3358,7 +3533,8 @@
                 "name": "Los Angeles International Airport",
                 "country": "US",
                 "region": "US-CA",
-                "municipality": "Los Angeles"
+                "municipality": "Los Angeles",
+                "iata": "LAX"
             }
         },
         {
@@ -3374,7 +3550,8 @@
                 "name": "Lubbock Preston Smith International Airport",
                 "country": "US",
                 "region": "US-TX",
-                "municipality": "Lubbock"
+                "municipality": "Lubbock",
+                "iata": "LBB"
             }
         },
         {
@@ -3390,7 +3567,8 @@
                 "name": "Rickenbacker International Airport",
                 "country": "US",
                 "region": "US-OH",
-                "municipality": "Columbus"
+                "municipality": "Columbus",
+                "iata": "LCK"
             }
         },
         {
@@ -3406,7 +3584,8 @@
                 "name": "Blue Grass Airport",
                 "country": "US",
                 "region": "US-KY",
-                "municipality": "Lexington"
+                "municipality": "Lexington",
+                "iata": "LEX"
             }
         },
         {
@@ -3422,7 +3601,8 @@
                 "name": "Lafayette Regional Airport",
                 "country": "US",
                 "region": "US-LA",
-                "municipality": "Lafayette"
+                "municipality": "Lafayette",
+                "iata": "LFT"
             }
         },
         {
@@ -3438,7 +3618,8 @@
                 "name": "La Guardia Airport",
                 "country": "US",
                 "region": "US-NY",
-                "municipality": "New York"
+                "municipality": "New York",
+                "iata": "LGA"
             }
         },
         {
@@ -3454,7 +3635,8 @@
                 "name": "Bill & Hillary Clinton National Airport/Adams Field",
                 "country": "US",
                 "region": "US-AR",
-                "municipality": "Little Rock"
+                "municipality": "Little Rock",
+                "iata": "LIT"
             }
         },
         {
@@ -3470,7 +3652,8 @@
                 "name": "MBS International Airport",
                 "country": "US",
                 "region": "US-MI",
-                "municipality": "Saginaw"
+                "municipality": "Saginaw",
+                "iata": "MBS"
             }
         },
         {
@@ -3486,7 +3669,8 @@
                 "name": "Kansas City International Airport",
                 "country": "US",
                 "region": "US-MO",
-                "municipality": "Kansas City"
+                "municipality": "Kansas City",
+                "iata": "MCI"
             }
         },
         {
@@ -3502,7 +3686,8 @@
                 "name": "Orlando International Airport",
                 "country": "US",
                 "region": "US-FL",
-                "municipality": "Orlando"
+                "municipality": "Orlando",
+                "iata": "MCO"
             }
         },
         {
@@ -3518,7 +3703,8 @@
                 "name": "Chicago Midway International Airport",
                 "country": "US",
                 "region": "US-IL",
-                "municipality": "Chicago"
+                "municipality": "Chicago",
+                "iata": "MDW"
             }
         },
         {
@@ -3534,7 +3720,8 @@
                 "name": "Memphis International Airport",
                 "country": "US",
                 "region": "US-TN",
-                "municipality": "Memphis"
+                "municipality": "Memphis",
+                "iata": "MEM"
             }
         },
         {
@@ -3550,7 +3737,8 @@
                 "name": "Dobbins Air Reserve Base",
                 "country": "US",
                 "region": "US-GA",
-                "municipality": "Marietta"
+                "municipality": "Marietta",
+                "iata": "MGE"
             }
         },
         {
@@ -3566,7 +3754,8 @@
                 "name": "Montgomery Regional (Dannelly Field) Airport",
                 "country": "US",
                 "region": "US-AL",
-                "municipality": "Montgomery"
+                "municipality": "Montgomery",
+                "iata": "MGM"
             }
         },
         {
@@ -3582,7 +3771,8 @@
                 "name": "Manchester-Boston Regional Airport",
                 "country": "US",
                 "region": "US-NH",
-                "municipality": "Manchester"
+                "municipality": "Manchester",
+                "iata": "MHT"
             }
         },
         {
@@ -3598,7 +3788,8 @@
                 "name": "Miami International Airport",
                 "country": "US",
                 "region": "US-FL",
-                "municipality": "Miami"
+                "municipality": "Miami",
+                "iata": "MIA"
             }
         },
         {
@@ -3614,7 +3805,8 @@
                 "name": "General Mitchell International Airport",
                 "country": "US",
                 "region": "US-WI",
-                "municipality": "Milwaukee"
+                "municipality": "Milwaukee",
+                "iata": "MKE"
             }
         },
         {
@@ -3630,7 +3822,8 @@
                 "name": "Quad City International Airport",
                 "country": "US",
                 "region": "US-IL",
-                "municipality": "Moline"
+                "municipality": "Moline",
+                "iata": "MLI"
             }
         },
         {
@@ -3646,7 +3839,8 @@
                 "name": "Monroe Regional Airport",
                 "country": "US",
                 "region": "US-LA",
-                "municipality": "Monroe"
+                "municipality": "Monroe",
+                "iata": "MLU"
             }
         },
         {
@@ -3662,7 +3856,8 @@
                 "name": "Mobile Regional Airport",
                 "country": "US",
                 "region": "US-AL",
-                "municipality": "Mobile"
+                "municipality": "Mobile",
+                "iata": "MOB"
             }
         },
         {
@@ -3678,7 +3873,8 @@
                 "name": "Dane County Regional Truax Field",
                 "country": "US",
                 "region": "US-WI",
-                "municipality": "Madison"
+                "municipality": "Madison",
+                "iata": "MSN"
             }
         },
         {
@@ -3694,7 +3890,8 @@
                 "name": "Minneapolis-St Paul International/Wold-Chamberlain Airport",
                 "country": "US",
                 "region": "US-MN",
-                "municipality": "Minneapolis"
+                "municipality": "Minneapolis",
+                "iata": "MSP"
             }
         },
         {
@@ -3710,7 +3907,8 @@
                 "name": "Louis Armstrong New Orleans International Airport",
                 "country": "US",
                 "region": "US-LA",
-                "municipality": "New Orleans"
+                "municipality": "New Orleans",
+                "iata": "MSY"
             }
         },
         {
@@ -3726,7 +3924,8 @@
                 "name": "Metropolitan Oakland International Airport",
                 "country": "US",
                 "region": "US-CA",
-                "municipality": "Oakland"
+                "municipality": "Oakland",
+                "iata": "OAK"
             }
         },
         {
@@ -3742,7 +3941,8 @@
                 "name": "Will Rogers World Airport",
                 "country": "US",
                 "region": "US-OK",
-                "municipality": "Oklahoma City"
+                "municipality": "Oklahoma City",
+                "iata": "OKC"
             }
         },
         {
@@ -3758,7 +3958,8 @@
                 "name": "Eppley Airfield",
                 "country": "US",
                 "region": "US-NE",
-                "municipality": "Omaha"
+                "municipality": "Omaha",
+                "iata": "OMA"
             }
         },
         {
@@ -3774,7 +3975,8 @@
                 "name": "Ontario International Airport",
                 "country": "US",
                 "region": "US-CA",
-                "municipality": "Ontario"
+                "municipality": "Ontario",
+                "iata": "ONT"
             }
         },
         {
@@ -3790,7 +3992,8 @@
                 "name": "Chicago O'Hare International Airport",
                 "country": "US",
                 "region": "US-IL",
-                "municipality": "Chicago"
+                "municipality": "Chicago",
+                "iata": "ORD"
             }
         },
         {
@@ -3806,7 +4009,8 @@
                 "name": "Norfolk International Airport",
                 "country": "US",
                 "region": "US-VA",
-                "municipality": "Norfolk"
+                "municipality": "Norfolk",
+                "iata": "ORF"
             }
         },
         {
@@ -3822,7 +4026,8 @@
                 "name": "Palm Beach International Airport",
                 "country": "US",
                 "region": "US-FL",
-                "municipality": "West Palm Beach"
+                "municipality": "West Palm Beach",
+                "iata": "PBI"
             }
         },
         {
@@ -3838,7 +4043,8 @@
                 "name": "Portland International Airport",
                 "country": "US",
                 "region": "US-OR",
-                "municipality": "Portland"
+                "municipality": "Portland",
+                "iata": "PDX"
             }
         },
         {
@@ -3854,7 +4060,8 @@
                 "name": "Newport News Williamsburg International Airport",
                 "country": "US",
                 "region": "US-VA",
-                "municipality": "Newport News"
+                "municipality": "Newport News",
+                "iata": "PHF"
             }
         },
         {
@@ -3870,7 +4077,8 @@
                 "name": "Philadelphia International Airport",
                 "country": "US",
                 "region": "US-PA",
-                "municipality": "Philadelphia"
+                "municipality": "Philadelphia",
+                "iata": "PHL"
             }
         },
         {
@@ -3886,7 +4094,8 @@
                 "name": "Phoenix Sky Harbor International Airport",
                 "country": "US",
                 "region": "US-AZ",
-                "municipality": "Phoenix"
+                "municipality": "Phoenix",
+                "iata": "PHX"
             }
         },
         {
@@ -3902,7 +4111,8 @@
                 "name": "General Wayne A. Downing Peoria International Airport",
                 "country": "US",
                 "region": "US-IL",
-                "municipality": "Peoria"
+                "municipality": "Peoria",
+                "iata": "PIA"
             }
         },
         {
@@ -3918,7 +4128,8 @@
                 "name": "Pittsburgh International Airport",
                 "country": "US",
                 "region": "US-PA",
-                "municipality": "Pittsburgh"
+                "municipality": "Pittsburgh",
+                "iata": "PIT"
             }
         },
         {
@@ -3934,7 +4145,8 @@
                 "name": "Theodore Francis Green State Airport",
                 "country": "US",
                 "region": "US-RI",
-                "municipality": "Providence"
+                "municipality": "Providence",
+                "iata": "PVD"
             }
         },
         {
@@ -3950,7 +4162,8 @@
                 "name": "Portland International Jetport",
                 "country": "US",
                 "region": "US-ME",
-                "municipality": "Portland"
+                "municipality": "Portland",
+                "iata": "PWM"
             }
         },
         {
@@ -3966,7 +4179,8 @@
                 "name": "Raleigh Durham International Airport",
                 "country": "US",
                 "region": "US-NC",
-                "municipality": "Raleigh/Durham"
+                "municipality": "Raleigh/Durham",
+                "iata": "RDU"
             }
         },
         {
@@ -3982,7 +4196,8 @@
                 "name": "Chicago Rockford International Airport",
                 "country": "US",
                 "region": "US-IL",
-                "municipality": "Chicago/Rockford"
+                "municipality": "Chicago/Rockford",
+                "iata": "RFD"
             }
         },
         {
@@ -3998,7 +4213,8 @@
                 "name": "Richmond International Airport",
                 "country": "US",
                 "region": "US-VA",
-                "municipality": "Richmond"
+                "municipality": "Richmond",
+                "iata": "RIC"
             }
         },
         {
@@ -4014,7 +4230,8 @@
                 "name": "Reno Tahoe International Airport",
                 "country": "US",
                 "region": "US-NV",
-                "municipality": "Reno"
+                "municipality": "Reno",
+                "iata": "RNO"
             }
         },
         {
@@ -4030,7 +4247,8 @@
                 "name": "Roanoke–Blacksburg Regional Airport",
                 "country": "US",
                 "region": "US-VA",
-                "municipality": "Roanoke"
+                "municipality": "Roanoke",
+                "iata": "ROA"
             }
         },
         {
@@ -4046,7 +4264,8 @@
                 "name": "Greater Rochester International Airport",
                 "country": "US",
                 "region": "US-NY",
-                "municipality": "Rochester"
+                "municipality": "Rochester",
+                "iata": "ROC"
             }
         },
         {
@@ -4062,7 +4281,8 @@
                 "name": "Rochester International Airport",
                 "country": "US",
                 "region": "US-MN",
-                "municipality": "Rochester"
+                "municipality": "Rochester",
+                "iata": "RST"
             }
         },
         {
@@ -4078,7 +4298,8 @@
                 "name": "Southwest Florida International Airport",
                 "country": "US",
                 "region": "US-FL",
-                "municipality": "Fort Myers"
+                "municipality": "Fort Myers",
+                "iata": "RSW"
             }
         },
         {
@@ -4094,7 +4315,8 @@
                 "name": "San Diego International Airport",
                 "country": "US",
                 "region": "US-CA",
-                "municipality": "San Diego"
+                "municipality": "San Diego",
+                "iata": "SAN"
             }
         },
         {
@@ -4110,7 +4332,8 @@
                 "name": "San Antonio International Airport",
                 "country": "US",
                 "region": "US-TX",
-                "municipality": "San Antonio"
+                "municipality": "San Antonio",
+                "iata": "SAT"
             }
         },
         {
@@ -4126,7 +4349,8 @@
                 "name": "Savannah Hilton Head International Airport",
                 "country": "US",
                 "region": "US-GA",
-                "municipality": "Savannah"
+                "municipality": "Savannah",
+                "iata": "SAV"
             }
         },
         {
@@ -4142,7 +4366,8 @@
                 "name": "South Bend Regional Airport",
                 "country": "US",
                 "region": "US-IN",
-                "municipality": "South Bend"
+                "municipality": "South Bend",
+                "iata": "SBN"
             }
         },
         {
@@ -4158,7 +4383,8 @@
                 "name": "Louisville Muhammad Ali International Airport",
                 "country": "US",
                 "region": "US-KY",
-                "municipality": "Louisville"
+                "municipality": "Louisville",
+                "iata": "SDF"
             }
         },
         {
@@ -4174,7 +4400,8 @@
                 "name": "Seattle Tacoma International Airport",
                 "country": "US",
                 "region": "US-WA",
-                "municipality": "Seattle"
+                "municipality": "Seattle",
+                "iata": "SEA"
             }
         },
         {
@@ -4190,7 +4417,8 @@
                 "name": "Orlando Sanford International Airport",
                 "country": "US",
                 "region": "US-FL",
-                "municipality": "Orlando"
+                "municipality": "Orlando",
+                "iata": "SFB"
             }
         },
         {
@@ -4206,7 +4434,8 @@
                 "name": "San Francisco International Airport",
                 "country": "US",
                 "region": "US-CA",
-                "municipality": "San Francisco"
+                "municipality": "San Francisco",
+                "iata": "SFO"
             }
         },
         {
@@ -4222,7 +4451,8 @@
                 "name": "Springfield Branson National Airport",
                 "country": "US",
                 "region": "US-MO",
-                "municipality": "Springfield"
+                "municipality": "Springfield",
+                "iata": "SGF"
             }
         },
         {
@@ -4238,7 +4468,8 @@
                 "name": "Norman Y. Mineta San Jose International Airport",
                 "country": "US",
                 "region": "US-CA",
-                "municipality": "San Jose"
+                "municipality": "San Jose",
+                "iata": "SJC"
             }
         },
         {
@@ -4254,7 +4485,8 @@
                 "name": "Salt Lake City International Airport",
                 "country": "US",
                 "region": "US-UT",
-                "municipality": "Salt Lake City"
+                "municipality": "Salt Lake City",
+                "iata": "SLC"
             }
         },
         {
@@ -4270,7 +4502,8 @@
                 "name": "Sacramento International Airport",
                 "country": "US",
                 "region": "US-CA",
-                "municipality": "Sacramento"
+                "municipality": "Sacramento",
+                "iata": "SMF"
             }
         },
         {
@@ -4286,7 +4519,8 @@
                 "name": "John Wayne Airport-Orange County Airport",
                 "country": "US",
                 "region": "US-CA",
-                "municipality": "Santa Ana"
+                "municipality": "Santa Ana",
+                "iata": "SNA"
             }
         },
         {
@@ -4302,7 +4536,8 @@
                 "name": "Abraham Lincoln Capital Airport",
                 "country": "US",
                 "region": "US-IL",
-                "municipality": "Springfield"
+                "municipality": "Springfield",
+                "iata": "SPI"
             }
         },
         {
@@ -4318,7 +4553,8 @@
                 "name": "Sarasota Bradenton International Airport",
                 "country": "US",
                 "region": "US-FL",
-                "municipality": "Sarasota/Bradenton"
+                "municipality": "Sarasota/Bradenton",
+                "iata": "SRQ"
             }
         },
         {
@@ -4334,7 +4570,8 @@
                 "name": "St Louis Lambert International Airport",
                 "country": "US",
                 "region": "US-MO",
-                "municipality": "St Louis"
+                "municipality": "St Louis",
+                "iata": "STL"
             }
         },
         {
@@ -4350,7 +4587,8 @@
                 "name": "Spirit of St Louis Airport",
                 "country": "US",
                 "region": "US-MO",
-                "municipality": "St Louis"
+                "municipality": "St Louis",
+                "iata": "SUS"
             }
         },
         {
@@ -4366,7 +4604,8 @@
                 "name": "Sioux Gateway Airport/Brigadier General Bud Day Field",
                 "country": "US",
                 "region": "US-IA",
-                "municipality": "Sioux City"
+                "municipality": "Sioux City",
+                "iata": "SUX"
             }
         },
         {
@@ -4382,7 +4621,8 @@
                 "name": "Syracuse Hancock International Airport",
                 "country": "US",
                 "region": "US-NY",
-                "municipality": "Syracuse"
+                "municipality": "Syracuse",
+                "iata": "SYR"
             }
         },
         {
@@ -4398,7 +4638,8 @@
                 "name": "Tallahassee Regional Airport",
                 "country": "US",
                 "region": "US-FL",
-                "municipality": "Tallahassee"
+                "municipality": "Tallahassee",
+                "iata": "TLH"
             }
         },
         {
@@ -4414,7 +4655,8 @@
                 "name": "Toledo Express Airport",
                 "country": "US",
                 "region": "US-OH",
-                "municipality": "Toledo"
+                "municipality": "Toledo",
+                "iata": "TOL"
             }
         },
         {
@@ -4430,7 +4672,8 @@
                 "name": "Tampa International Airport",
                 "country": "US",
                 "region": "US-FL",
-                "municipality": "Tampa"
+                "municipality": "Tampa",
+                "iata": "TPA"
             }
         },
         {
@@ -4446,7 +4689,8 @@
                 "name": "Tri-Cities Regional TN/VA Airport",
                 "country": "US",
                 "region": "US-TN",
-                "municipality": "Bristol/Johnson/Kingsport"
+                "municipality": "Bristol/Johnson/Kingsport",
+                "iata": "TRI"
             }
         },
         {
@@ -4462,7 +4706,8 @@
                 "name": "Tulsa International Airport",
                 "country": "US",
                 "region": "US-OK",
-                "municipality": "Tulsa"
+                "municipality": "Tulsa",
+                "iata": "TUL"
             }
         },
         {
@@ -4478,7 +4723,8 @@
                 "name": "Tucson International Airport",
                 "country": "US",
                 "region": "US-AZ",
-                "municipality": "Tucson"
+                "municipality": "Tucson",
+                "iata": "TUS"
             }
         },
         {
@@ -4494,7 +4740,8 @@
                 "name": "McGhee Tyson Airport",
                 "country": "US",
                 "region": "US-TN",
-                "municipality": "Knoxville"
+                "municipality": "Knoxville",
+                "iata": "TYS"
             }
         },
         {
@@ -4510,7 +4757,8 @@
                 "name": "Destin-Ft Walton Beach Airport",
                 "country": "US",
                 "region": "US-FL",
-                "municipality": "Valparaiso"
+                "municipality": "Valparaiso",
+                "iata": "VPS"
             }
         },
         {
@@ -4526,7 +4774,8 @@
                 "name": "Tirana International Airport Mother Teresa",
                 "country": "AL",
                 "region": "AL-11",
-                "municipality": "Tirana"
+                "municipality": "Tirana",
+                "iata": "TIA"
             }
         },
         {
@@ -4542,7 +4791,8 @@
                 "name": "Burgas Airport",
                 "country": "BG",
                 "region": "BG-02",
-                "municipality": "Burgas"
+                "municipality": "Burgas",
+                "iata": "BOJ"
             }
         },
         {
@@ -4558,7 +4808,8 @@
                 "name": "Sofia Airport",
                 "country": "BG",
                 "region": "BG-23",
-                "municipality": "Sofia"
+                "municipality": "Sofia",
+                "iata": "SOF"
             }
         },
         {
@@ -4574,7 +4825,8 @@
                 "name": "Varna Airport",
                 "country": "BG",
                 "region": "BG-03",
-                "municipality": "Varna"
+                "municipality": "Varna",
+                "iata": "VAR"
             }
         },
         {
@@ -4590,7 +4842,8 @@
                 "name": "Larnaca International Airport",
                 "country": "CY",
                 "region": "CY-04",
-                "municipality": "Larnarca"
+                "municipality": "Larnarca",
+                "iata": "LCA"
             }
         },
         {
@@ -4606,7 +4859,8 @@
                 "name": "Paphos International Airport",
                 "country": "CY",
                 "region": "CY-06",
-                "municipality": "Paphos"
+                "municipality": "Paphos",
+                "iata": "PFO"
             }
         },
         {
@@ -4622,7 +4876,8 @@
                 "name": "RAF Akrotiri",
                 "country": "GB",
                 "region": "GB-U-A",
-                "municipality": "Akrotiri"
+                "municipality": "Akrotiri",
+                "iata": "AKT"
             }
         },
         {
@@ -4638,7 +4893,8 @@
                 "name": "Zagreb Airport",
                 "country": "HR",
                 "region": "HR-21",
-                "municipality": "Zagreb"
+                "municipality": "Zagreb",
+                "iata": "ZAG"
             }
         },
         {
@@ -4654,7 +4910,8 @@
                 "name": "Alicante International Airport",
                 "country": "ES",
                 "region": "ES-V",
-                "municipality": "Alicante"
+                "municipality": "Alicante",
+                "iata": "ALC"
             }
         },
         {
@@ -4670,7 +4927,8 @@
                 "name": "Barcelona International Airport",
                 "country": "ES",
                 "region": "ES-CT",
-                "municipality": "Barcelona"
+                "municipality": "Barcelona",
+                "iata": "BCN"
             }
         },
         {
@@ -4686,7 +4944,8 @@
                 "name": "Adolfo Suárez Madrid–Barajas Airport",
                 "country": "ES",
                 "region": "ES-M",
-                "municipality": "Madrid"
+                "municipality": "Madrid",
+                "iata": "MAD"
             }
         },
         {
@@ -4702,7 +4961,8 @@
                 "name": "Málaga Airport",
                 "country": "ES",
                 "region": "ES-AN",
-                "municipality": "Málaga"
+                "municipality": "Málaga",
+                "iata": "AGP"
             }
         },
         {
@@ -4718,7 +4978,8 @@
                 "name": "Palma De Mallorca Airport",
                 "country": "ES",
                 "region": "ES-PM",
-                "municipality": "Palma De Mallorca"
+                "municipality": "Palma De Mallorca",
+                "iata": "PMI"
             }
         },
         {
@@ -4734,7 +4995,8 @@
                 "name": "Santiago de Compostela Airport",
                 "country": "ES",
                 "region": "ES-GA",
-                "municipality": "Santiago de Compostela"
+                "municipality": "Santiago de Compostela",
+                "iata": "SCQ"
             }
         },
         {
@@ -4750,7 +5012,8 @@
                 "name": "Bordeaux-Mérignac Airport",
                 "country": "FR",
                 "region": "FR-NAQ",
-                "municipality": "Bordeaux/Mérignac"
+                "municipality": "Bordeaux/Mérignac",
+                "iata": "BOD"
             }
         },
         {
@@ -4766,7 +5029,8 @@
                 "name": "Toulouse-Blagnac Airport",
                 "country": "FR",
                 "region": "FR-OCC",
-                "municipality": "Toulouse/Blagnac"
+                "municipality": "Toulouse/Blagnac",
+                "iata": "TLS"
             }
         },
         {
@@ -4782,7 +5046,8 @@
                 "name": "Lyon Saint-Exupéry Airport",
                 "country": "FR",
                 "region": "FR-ARA",
-                "municipality": "Lyon"
+                "municipality": "Lyon",
+                "iata": "LYS"
             }
         },
         {
@@ -4798,7 +5063,8 @@
                 "name": "Marseille Provence Airport",
                 "country": "FR",
                 "region": "FR-PAC",
-                "municipality": "Marseille"
+                "municipality": "Marseille",
+                "iata": "MRS"
             }
         },
         {
@@ -4814,23 +5080,8 @@
                 "name": "Nice-Côte d'Azur Airport",
                 "country": "FR",
                 "region": "FR-PAC",
-                "municipality": "Nice"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.6325,
-                    47.053299
-                ]
-            },
-            "properties": {
-                "name": "Avord (BA 702) Air Base",
-                "country": "FR",
-                "region": "FR-CVL",
-                "municipality": "Avord"
+                "municipality": "Nice",
+                "iata": "NCE"
             }
         },
         {
@@ -4846,7 +5097,8 @@
                 "name": "Charles de Gaulle International Airport",
                 "country": "FR",
                 "region": "FR-IDF",
-                "municipality": "Paris"
+                "municipality": "Paris",
+                "iata": "CDG"
             }
         },
         {
@@ -4862,7 +5114,8 @@
                 "name": "Paris-Orly Airport",
                 "country": "FR",
                 "region": "FR-IDF",
-                "municipality": "Paris"
+                "municipality": "Paris",
+                "iata": "ORY"
             }
         },
         {
@@ -4878,7 +5131,8 @@
                 "name": "EuroAirport Basel-Mulhouse-Freiburg Airport",
                 "country": "FR",
                 "region": "FR-GES",
-                "municipality": "Bâle/Mulhouse"
+                "municipality": "Bâle/Mulhouse",
+                "iata": "BSL"
             }
         },
         {
@@ -4894,7 +5148,8 @@
                 "name": "Eleftherios Venizelos International Airport",
                 "country": "GR",
                 "region": "GR-A1",
-                "municipality": "Athens"
+                "municipality": "Athens",
+                "iata": "ATH"
             }
         },
         {
@@ -4910,7 +5165,8 @@
                 "name": "Heraklion International Nikos Kazantzakis Airport",
                 "country": "GR",
                 "region": "GR-91",
-                "municipality": "Heraklion"
+                "municipality": "Heraklion",
+                "iata": "HER"
             }
         },
         {
@@ -4926,7 +5182,8 @@
                 "name": "Thessaloniki Macedonia International Airport",
                 "country": "GR",
                 "region": "GR-54",
-                "municipality": "Thessaloniki"
+                "municipality": "Thessaloniki",
+                "iata": "SKG"
             }
         },
         {
@@ -4942,7 +5199,8 @@
                 "name": "Budapest Liszt Ferenc International Airport",
                 "country": "HU",
                 "region": "HU-PE",
-                "municipality": "Budapest"
+                "municipality": "Budapest",
+                "iata": "BUD"
             }
         },
         {
@@ -4958,7 +5216,8 @@
                 "name": "Bari Karol Wojtyła Airport",
                 "country": "IT",
                 "region": "IT-75",
-                "municipality": "Bari"
+                "municipality": "Bari",
+                "iata": "BRI"
             }
         },
         {
@@ -4974,7 +5233,8 @@
                 "name": "Catania-Fontanarossa Airport",
                 "country": "IT",
                 "region": "IT-82",
-                "municipality": "Catania"
+                "municipality": "Catania",
+                "iata": "CTA"
             }
         },
         {
@@ -4990,7 +5250,8 @@
                 "name": "Falcone–Borsellino Airport",
                 "country": "IT",
                 "region": "IT-82",
-                "municipality": "Palermo"
+                "municipality": "Palermo",
+                "iata": "PMO"
             }
         },
         {
@@ -5006,7 +5267,8 @@
                 "name": "Cagliari Elmas Airport",
                 "country": "IT",
                 "region": "IT-88",
-                "municipality": "Cagliari"
+                "municipality": "Cagliari",
+                "iata": "CAG"
             }
         },
         {
@@ -5022,7 +5284,8 @@
                 "name": "Malpensa International Airport",
                 "country": "IT",
                 "region": "IT-25",
-                "municipality": "Milan"
+                "municipality": "Milan",
+                "iata": "MXP"
             }
         },
         {
@@ -5038,7 +5301,8 @@
                 "name": "Il Caravaggio International Airport",
                 "country": "IT",
                 "region": "IT-25",
-                "municipality": "Bergamo"
+                "municipality": "Bergamo",
+                "iata": "BGY"
             }
         },
         {
@@ -5054,7 +5318,8 @@
                 "name": "Turin Airport",
                 "country": "IT",
                 "region": "IT-21",
-                "municipality": "Torino"
+                "municipality": "Torino",
+                "iata": "TRN"
             }
         },
         {
@@ -5070,7 +5335,8 @@
                 "name": "Genoa Cristoforo Colombo Airport",
                 "country": "IT",
                 "region": "IT-42",
-                "municipality": "Genova"
+                "municipality": "Genova",
+                "iata": "GOA"
             }
         },
         {
@@ -5086,7 +5352,8 @@
                 "name": "Milano Linate Airport",
                 "country": "IT",
                 "region": "IT-25",
-                "municipality": "Milan"
+                "municipality": "Milan",
+                "iata": "LIN"
             }
         },
         {
@@ -5102,7 +5369,8 @@
                 "name": "Bologna Guglielmo Marconi Airport",
                 "country": "IT",
                 "region": "IT-45",
-                "municipality": "Bologna"
+                "municipality": "Bologna",
+                "iata": "BLQ"
             }
         },
         {
@@ -5118,7 +5386,8 @@
                 "name": "Treviso-Sant'Angelo Airport",
                 "country": "IT",
                 "region": "IT-34",
-                "municipality": "Treviso"
+                "municipality": "Treviso",
+                "iata": "TSF"
             }
         },
         {
@@ -5134,7 +5403,8 @@
                 "name": "Verona Villafranca Airport",
                 "country": "IT",
                 "region": "IT-34",
-                "municipality": "Verona"
+                "municipality": "Verona",
+                "iata": "VRN"
             }
         },
         {
@@ -5150,7 +5420,8 @@
                 "name": "Venice Marco Polo Airport",
                 "country": "IT",
                 "region": "IT-34",
-                "municipality": "Venice"
+                "municipality": "Venice",
+                "iata": "VCE"
             }
         },
         {
@@ -5166,7 +5437,8 @@
                 "name": "Ciampino–G. B. Pastine International Airport",
                 "country": "IT",
                 "region": "IT-62",
-                "municipality": "Rome"
+                "municipality": "Rome",
+                "iata": "CIA"
             }
         },
         {
@@ -5182,7 +5454,8 @@
                 "name": "Leonardo da Vinci–Fiumicino Airport",
                 "country": "IT",
                 "region": "IT-62",
-                "municipality": "Rome"
+                "municipality": "Rome",
+                "iata": "FCO"
             }
         },
         {
@@ -5198,7 +5471,8 @@
                 "name": "Naples International Airport",
                 "country": "IT",
                 "region": "IT-72",
-                "municipality": "Nápoli"
+                "municipality": "Nápoli",
+                "iata": "NAP"
             }
         },
         {
@@ -5214,7 +5488,8 @@
                 "name": "Pisa International Airport",
                 "country": "IT",
                 "region": "IT-52",
-                "municipality": "Pisa"
+                "municipality": "Pisa",
+                "iata": "PSA"
             }
         },
         {
@@ -5230,7 +5505,8 @@
                 "name": "Ljubljana Jože Pučnik Airport",
                 "country": "SI",
                 "region": "SI-061",
-                "municipality": "Ljubljana"
+                "municipality": "Ljubljana",
+                "iata": "LJU"
             }
         },
         {
@@ -5246,7 +5522,8 @@
                 "name": "Václav Havel Airport Prague",
                 "country": "CZ",
                 "region": "CZ-PR",
-                "municipality": "Prague"
+                "municipality": "Prague",
+                "iata": "PRG"
             }
         },
         {
@@ -5262,7 +5539,8 @@
                 "name": "Ben Gurion International Airport",
                 "country": "IL",
                 "region": "IL-M",
-                "municipality": "Tel Aviv"
+                "municipality": "Tel Aviv",
+                "iata": "TLV"
             }
         },
         {
@@ -5278,7 +5556,8 @@
                 "name": "Ovda International Airport",
                 "country": "IL",
                 "region": "IL-D",
-                "municipality": "Eilat"
+                "municipality": "Eilat",
+                "iata": "VDA"
             }
         },
         {
@@ -5294,7 +5573,8 @@
                 "name": "Malta International Airport",
                 "country": "MT",
                 "region": "MT-25",
-                "municipality": "Valletta"
+                "municipality": "Valletta",
+                "iata": "MLA"
             }
         },
         {
@@ -5310,7 +5590,8 @@
                 "name": "Vienna International Airport",
                 "country": "AT",
                 "region": "AT-9",
-                "municipality": "Vienna"
+                "municipality": "Vienna",
+                "iata": "VIE"
             }
         },
         {
@@ -5326,7 +5607,8 @@
                 "name": "Faro Airport",
                 "country": "PT",
                 "region": "PT-08",
-                "municipality": "Faro"
+                "municipality": "Faro",
+                "iata": "FAO"
             }
         },
         {
@@ -5342,7 +5624,8 @@
                 "name": "Lajes Airport",
                 "country": "PT",
                 "region": "PT-20",
-                "municipality": "Praia da Vitória"
+                "municipality": "Praia da Vitória",
+                "iata": "TER"
             }
         },
         {
@@ -5358,7 +5641,8 @@
                 "name": "João Paulo II Airport",
                 "country": "PT",
                 "region": "PT-20",
-                "municipality": "Ponta Delgada"
+                "municipality": "Ponta Delgada",
+                "iata": "PDL"
             }
         },
         {
@@ -5374,7 +5658,8 @@
                 "name": "Francisco de Sá Carneiro Airport",
                 "country": "PT",
                 "region": "PT-13",
-                "municipality": "Porto"
+                "municipality": "Porto",
+                "iata": "OPO"
             }
         },
         {
@@ -5390,7 +5675,8 @@
                 "name": "Humberto Delgado Airport (Lisbon Portela Airport)",
                 "country": "PT",
                 "region": "PT-11",
-                "municipality": "Lisbon"
+                "municipality": "Lisbon",
+                "iata": "LIS"
             }
         },
         {
@@ -5406,7 +5692,8 @@
                 "name": "Sarajevo International Airport",
                 "country": "BA",
                 "region": "BA-BIH",
-                "municipality": "Sarajevo"
+                "municipality": "Sarajevo",
+                "iata": "SJJ"
             }
         },
         {
@@ -5422,7 +5709,8 @@
                 "name": "Henri Coandă International Airport",
                 "country": "RO",
                 "region": "RO-B",
-                "municipality": "Bucharest"
+                "municipality": "Bucharest",
+                "iata": "OTP"
             }
         },
         {
@@ -5438,7 +5726,8 @@
                 "name": "Geneva Cointrin International Airport",
                 "country": "CH",
                 "region": "CH-GE",
-                "municipality": "Geneva"
+                "municipality": "Geneva",
+                "iata": "GVA"
             }
         },
         {
@@ -5454,7 +5743,8 @@
                 "name": "Zürich Airport",
                 "country": "CH",
                 "region": "CH-ZH",
-                "municipality": "Zurich"
+                "municipality": "Zurich",
+                "iata": "ZRH"
             }
         },
         {
@@ -5470,7 +5760,8 @@
                 "name": "Esenboğa International Airport",
                 "country": "TR",
                 "region": "TR-06",
-                "municipality": "Ankara"
+                "municipality": "Ankara",
+                "iata": "ESB"
             }
         },
         {
@@ -5486,7 +5777,8 @@
                 "name": "Adana Airport",
                 "country": "TR",
                 "region": "TR-01",
-                "municipality": "Adana"
+                "municipality": "Adana",
+                "iata": "ADA"
             }
         },
         {
@@ -5502,7 +5794,8 @@
                 "name": "Antalya International Airport",
                 "country": "TR",
                 "region": "TR-07",
-                "municipality": "Antalya"
+                "municipality": "Antalya",
+                "iata": "AYT"
             }
         },
         {
@@ -5518,7 +5811,8 @@
                 "name": "Gaziantep International Airport",
                 "country": "TR",
                 "region": "TR-27",
-                "municipality": "Gaziantep"
+                "municipality": "Gaziantep",
+                "iata": "GZT"
             }
         },
         {
@@ -5534,7 +5828,8 @@
                 "name": "Atatürk International Airport",
                 "country": "TR",
                 "region": "TR-34",
-                "municipality": "Istanbul"
+                "municipality": "Istanbul",
+                "iata": "ISL"
             }
         },
         {
@@ -5550,7 +5845,8 @@
                 "name": "Adnan Menderes International Airport",
                 "country": "TR",
                 "region": "TR-35",
-                "municipality": "İzmir"
+                "municipality": "İzmir",
+                "iata": "ADB"
             }
         },
         {
@@ -5566,7 +5862,8 @@
                 "name": "Dalaman International Airport",
                 "country": "TR",
                 "region": "TR-48",
-                "municipality": "Dalaman"
+                "municipality": "Dalaman",
+                "iata": "DLM"
             }
         },
         {
@@ -5582,7 +5879,8 @@
                 "name": "Erzurum International Airport",
                 "country": "TR",
                 "region": "TR-25",
-                "municipality": "Erzurum"
+                "municipality": "Erzurum",
+                "iata": "ERZ"
             }
         },
         {
@@ -5598,7 +5896,8 @@
                 "name": "Trabzon International Airport",
                 "country": "TR",
                 "region": "TR-61",
-                "municipality": "Trabzon"
+                "municipality": "Trabzon",
+                "iata": "TZX"
             }
         },
         {
@@ -5614,7 +5913,8 @@
                 "name": "Süleyman Demirel International Airport",
                 "country": "TR",
                 "region": "TR-32",
-                "municipality": "Isparta"
+                "municipality": "Isparta",
+                "iata": "ISE"
             }
         },
         {
@@ -5630,7 +5930,8 @@
                 "name": "Milas Bodrum International Airport",
                 "country": "TR",
                 "region": "TR-48",
-                "municipality": "Bodrum"
+                "municipality": "Bodrum",
+                "iata": "BJV"
             }
         },
         {
@@ -5646,7 +5947,8 @@
                 "name": "Sabiha Gökçen International Airport",
                 "country": "TR",
                 "region": "TR-34",
-                "municipality": "Istanbul"
+                "municipality": "Istanbul",
+                "iata": "SAW"
             }
         },
         {
@@ -5662,7 +5964,8 @@
                 "name": "Istanbul Airport",
                 "country": "TR",
                 "region": "TR-34",
-                "municipality": "Istanbul"
+                "municipality": "Istanbul",
+                "iata": "IST"
             }
         },
         {
@@ -5678,7 +5981,8 @@
                 "name": "Skopje International Airport",
                 "country": "MK",
                 "region": "MK-004",
-                "municipality": "Skopje"
+                "municipality": "Skopje",
+                "iata": "SKP"
             }
         },
         {
@@ -5694,7 +5998,8 @@
                 "name": "Belgrade Nikola Tesla Airport",
                 "country": "RS",
                 "region": "RS-00",
-                "municipality": "Belgrade"
+                "municipality": "Belgrade",
+                "iata": "BEG"
             }
         },
         {
@@ -5710,7 +6015,8 @@
                 "name": "Podgorica Airport",
                 "country": "ME",
                 "region": "ME-16",
-                "municipality": "Podgorica"
+                "municipality": "Podgorica",
+                "iata": "TGD"
             }
         },
         {
@@ -5726,7 +6032,8 @@
                 "name": "M. R. Štefánik Airport",
                 "country": "SK",
                 "region": "SK-BL",
-                "municipality": "Bratislava"
+                "municipality": "Bratislava",
+                "iata": "BTS"
             }
         },
         {
@@ -5742,7 +6049,8 @@
                 "name": "Punta Cana International Airport",
                 "country": "DO",
                 "region": "DO-11",
-                "municipality": "Punta Cana"
+                "municipality": "Punta Cana",
+                "iata": "PUJ"
             }
         },
         {
@@ -5758,7 +6066,8 @@
                 "name": "Las Américas International Airport",
                 "country": "DO",
                 "region": "DO-01",
-                "municipality": "Santo Domingo"
+                "municipality": "Santo Domingo",
+                "iata": "SDQ"
             }
         },
         {
@@ -5774,7 +6083,8 @@
                 "name": "La Aurora Airport",
                 "country": "GT",
                 "region": "GT-GU",
-                "municipality": "Guatemala City"
+                "municipality": "Guatemala City",
+                "iata": "GUA"
             }
         },
         {
@@ -5790,7 +6100,8 @@
                 "name": "Norman Manley International Airport",
                 "country": "JM",
                 "region": "JM-01",
-                "municipality": "Kingston"
+                "municipality": "Kingston",
+                "iata": "KIN"
             }
         },
         {
@@ -5806,7 +6117,8 @@
                 "name": "General Juan N Alvarez International Airport",
                 "country": "MX",
                 "region": "MX-GRO",
-                "municipality": "Acapulco"
+                "municipality": "Acapulco",
+                "iata": "ACA"
             }
         },
         {
@@ -5822,7 +6134,8 @@
                 "name": "Don Miguel Hidalgo Y Costilla International Airport",
                 "country": "MX",
                 "region": "MX-JAL",
-                "municipality": "Guadalajara"
+                "municipality": "Guadalajara",
+                "iata": "GDL"
             }
         },
         {
@@ -5838,7 +6151,8 @@
                 "name": "General Ignacio P. Garcia International Airport",
                 "country": "MX",
                 "region": "MX-SON",
-                "municipality": "Hermosillo"
+                "municipality": "Hermosillo",
+                "iata": "HMO"
             }
         },
         {
@@ -5854,7 +6168,8 @@
                 "name": "Licenciado Benito Juarez International Airport",
                 "country": "MX",
                 "region": "MX-DIF",
-                "municipality": "Mexico City"
+                "municipality": "Mexico City",
+                "iata": "MEX"
             }
         },
         {
@@ -5870,7 +6185,8 @@
                 "name": "General Mariano Escobedo International Airport",
                 "country": "MX",
                 "region": "MX-NLE",
-                "municipality": "Monterrey"
+                "municipality": "Monterrey",
+                "iata": "MTY"
             }
         },
         {
@@ -5886,7 +6202,8 @@
                 "name": "Licenciado Gustavo Díaz Ordaz International Airport",
                 "country": "MX",
                 "region": "MX-JAL",
-                "municipality": "Puerto Vallarta"
+                "municipality": "Puerto Vallarta",
+                "iata": "PVR"
             }
         },
         {
@@ -5902,7 +6219,8 @@
                 "name": "Los Cabos International Airport",
                 "country": "MX",
                 "region": "MX-BCS",
-                "municipality": "San José del Cabo"
+                "municipality": "San José del Cabo",
+                "iata": "SJD"
             }
         },
         {
@@ -5918,7 +6236,8 @@
                 "name": "General Abelardo L. Rodríguez International Airport",
                 "country": "MX",
                 "region": "MX-BCN",
-                "municipality": "Tijuana"
+                "municipality": "Tijuana",
+                "iata": "TIJ"
             }
         },
         {
@@ -5934,7 +6253,8 @@
                 "name": "Cancún International Airport",
                 "country": "MX",
                 "region": "MX-ROO",
-                "municipality": "Cancún"
+                "municipality": "Cancún",
+                "iata": "CUN"
             }
         },
         {
@@ -5950,7 +6270,8 @@
                 "name": "Tocumen International Airport",
                 "country": "PA",
                 "region": "PA-8",
-                "municipality": "Tocumen"
+                "municipality": "Tocumen",
+                "iata": "PTY"
             }
         },
         {
@@ -5966,7 +6287,8 @@
                 "name": "Daniel Oduber Quiros International Airport",
                 "country": "CR",
                 "region": "CR-G",
-                "municipality": "Liberia"
+                "municipality": "Liberia",
+                "iata": "LIR"
             }
         },
         {
@@ -5982,7 +6304,8 @@
                 "name": "Monseñor Óscar Arnulfo Romero International Airport",
                 "country": "SV",
                 "region": "SV-PA",
-                "municipality": "San Salvador (San Luis Talpa)"
+                "municipality": "San Salvador (San Luis Talpa)",
+                "iata": "SAL"
             }
         },
         {
@@ -5998,7 +6321,8 @@
                 "name": "José Martí International Airport",
                 "country": "CU",
                 "region": "CU-03",
-                "municipality": "Havana"
+                "municipality": "Havana",
+                "iata": "HAV"
             }
         },
         {
@@ -6014,7 +6338,8 @@
                 "name": "Juan Gualberto Gomez International Airport",
                 "country": "CU",
                 "region": "CU-04",
-                "municipality": "Varadero"
+                "municipality": "Varadero",
+                "iata": "VRA"
             }
         },
         {
@@ -6030,7 +6355,8 @@
                 "name": "Owen Roberts International Airport",
                 "country": "KY",
                 "region": "KY-U-A",
-                "municipality": "Georgetown"
+                "municipality": "Georgetown",
+                "iata": "GCM"
             }
         },
         {
@@ -6046,7 +6372,8 @@
                 "name": "Lynden Pindling International Airport",
                 "country": "BS",
                 "region": "BS-NP",
-                "municipality": "Nassau"
+                "municipality": "Nassau",
+                "iata": "NAS"
             }
         },
         {
@@ -6062,7 +6389,8 @@
                 "name": "Philip S. W. Goldson International Airport",
                 "country": "BZ",
                 "region": "BZ-BZ",
-                "municipality": "Belize City"
+                "municipality": "Belize City",
+                "iata": "BZE"
             }
         },
         {
@@ -6078,7 +6406,8 @@
                 "name": "Rarotonga International Airport",
                 "country": "CK",
                 "region": "CK-U-A",
-                "municipality": "Avarua"
+                "municipality": "Avarua",
+                "iata": "RAR"
             }
         },
         {
@@ -6094,7 +6423,8 @@
                 "name": "Faa'a International Airport",
                 "country": "PF",
                 "region": "PF-U-A",
-                "municipality": "Papeete"
+                "municipality": "Papeete",
+                "iata": "PPT"
             }
         },
         {
@@ -6110,7 +6440,8 @@
                 "name": "Auckland International Airport",
                 "country": "NZ",
                 "region": "NZ-AUK",
-                "municipality": "Auckland"
+                "municipality": "Auckland",
+                "iata": "AKL"
             }
         },
         {
@@ -6126,7 +6457,8 @@
                 "name": "Christchurch International Airport",
                 "country": "NZ",
                 "region": "NZ-CAN",
-                "municipality": "Christchurch"
+                "municipality": "Christchurch",
+                "iata": "CHC"
             }
         },
         {
@@ -6142,7 +6474,8 @@
                 "name": "Wellington International Airport",
                 "country": "NZ",
                 "region": "NZ-WGN",
-                "municipality": "Wellington"
+                "municipality": "Wellington",
+                "iata": "WLG"
             }
         },
         {
@@ -6158,7 +6491,8 @@
                 "name": "Bahrain International Airport",
                 "country": "BH",
                 "region": "BH-15",
-                "municipality": "Manama"
+                "municipality": "Manama",
+                "iata": "BAH"
             }
         },
         {
@@ -6174,23 +6508,8 @@
                 "name": "King Fahd International Airport",
                 "country": "SA",
                 "region": "SA-04",
-                "municipality": "Ad Dammam"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    50.152000427199994,
-                    26.265399932900003
-                ]
-            },
-            "properties": {
-                "name": "King Abdulaziz Air Base",
-                "country": "SA",
-                "region": "SA-04",
-                "municipality": ""
+                "municipality": "Ad Dammam",
+                "iata": "DMM"
             }
         },
         {
@@ -6206,7 +6525,8 @@
                 "name": "King Abdulaziz International Airport",
                 "country": "SA",
                 "region": "SA-02",
-                "municipality": "Jeddah"
+                "municipality": "Jeddah",
+                "iata": "JED"
             }
         },
         {
@@ -6222,7 +6542,8 @@
                 "name": "Prince Mohammad Bin Abdulaziz Airport",
                 "country": "SA",
                 "region": "SA-03",
-                "municipality": "Medina"
+                "municipality": "Medina",
+                "iata": "MED"
             }
         },
         {
@@ -6238,7 +6559,8 @@
                 "name": "King Khaled International Airport",
                 "country": "SA",
                 "region": "SA-01",
-                "municipality": "Riyadh"
+                "municipality": "Riyadh",
+                "iata": "RUH"
             }
         },
         {
@@ -6254,7 +6576,8 @@
                 "name": "Imam Khomeini International Airport",
                 "country": "IR",
                 "region": "IR-07",
-                "municipality": "Tehran"
+                "municipality": "Tehran",
+                "iata": "IKA"
             }
         },
         {
@@ -6270,7 +6593,8 @@
                 "name": "Mehrabad International Airport",
                 "country": "IR",
                 "region": "IR-07",
-                "municipality": "Tehran"
+                "municipality": "Tehran",
+                "iata": "THR"
             }
         },
         {
@@ -6286,7 +6610,8 @@
                 "name": "Mashhad International Airport",
                 "country": "IR",
                 "region": "IR-30",
-                "municipality": "Mashhad"
+                "municipality": "Mashhad",
+                "iata": "MHD"
             }
         },
         {
@@ -6302,7 +6627,8 @@
                 "name": "Shiraz Shahid Dastghaib International Airport",
                 "country": "IR",
                 "region": "IR-14",
-                "municipality": "Shiraz"
+                "municipality": "Shiraz",
+                "iata": "SYZ"
             }
         },
         {
@@ -6318,7 +6644,8 @@
                 "name": "Tabriz International Airport",
                 "country": "IR",
                 "region": "IR-01",
-                "municipality": "Tabriz"
+                "municipality": "Tabriz",
+                "iata": "TBZ"
             }
         },
         {
@@ -6334,7 +6661,8 @@
                 "name": "Queen Alia International Airport",
                 "country": "JO",
                 "region": "JO-AM",
-                "municipality": "Amman"
+                "municipality": "Amman",
+                "iata": "AMM"
             }
         },
         {
@@ -6350,7 +6678,8 @@
                 "name": "Kuwait International Airport",
                 "country": "KW",
                 "region": "KW-FA",
-                "municipality": "Kuwait City"
+                "municipality": "Kuwait City",
+                "iata": "KWI"
             }
         },
         {
@@ -6366,7 +6695,8 @@
                 "name": "Beirut Rafic Hariri International Airport",
                 "country": "LB",
                 "region": "LB-JL",
-                "municipality": "Beirut"
+                "municipality": "Beirut",
+                "iata": "BEY"
             }
         },
         {
@@ -6382,7 +6712,8 @@
                 "name": "Duqm International Airport",
                 "country": "OM",
                 "region": "OM-WU",
-                "municipality": "Duqm"
+                "municipality": "Duqm",
+                "iata": "DQM"
             }
         },
         {
@@ -6398,7 +6729,8 @@
                 "name": "Rustaq Airport",
                 "country": "OM",
                 "region": "OM-BA",
-                "municipality": "Al Masna'ah"
+                "municipality": "Al Masna'ah",
+                "iata": "MNH"
             }
         },
         {
@@ -6414,7 +6746,8 @@
                 "name": "Abu Dhabi International Airport",
                 "country": "AE",
                 "region": "AE-AZ",
-                "municipality": "Abu Dhabi"
+                "municipality": "Abu Dhabi",
+                "iata": "AUH"
             }
         },
         {
@@ -6430,7 +6763,8 @@
                 "name": "Dubai International Airport",
                 "country": "AE",
                 "region": "AE-DU",
-                "municipality": "Dubai"
+                "municipality": "Dubai",
+                "iata": "DXB"
             }
         },
         {
@@ -6446,7 +6780,8 @@
                 "name": "Al Maktoum International Airport",
                 "country": "AE",
                 "region": "AE-DU",
-                "municipality": "Jebel Ali"
+                "municipality": "Jebel Ali",
+                "iata": "DWC"
             }
         },
         {
@@ -6462,7 +6797,8 @@
                 "name": "Sharjah International Airport",
                 "country": "AE",
                 "region": "AE-SH",
-                "municipality": "Sharjah"
+                "municipality": "Sharjah",
+                "iata": "SHJ"
             }
         },
         {
@@ -6478,7 +6814,8 @@
                 "name": "Muscat International Airport",
                 "country": "OM",
                 "region": "OM-MA",
-                "municipality": "Muscat"
+                "municipality": "Muscat",
+                "iata": "MCT"
             }
         },
         {
@@ -6494,7 +6831,8 @@
                 "name": "Islamabad International Airport",
                 "country": "PK",
                 "region": "PK-PB",
-                "municipality": "Islamabad"
+                "municipality": "Islamabad",
+                "iata": "ISB"
             }
         },
         {
@@ -6510,7 +6848,8 @@
                 "name": "Sialkot Airport",
                 "country": "PK",
                 "region": "PK-PB",
-                "municipality": "Sialkot"
+                "municipality": "Sialkot",
+                "iata": "SKT"
             }
         },
         {
@@ -6526,7 +6865,8 @@
                 "name": "Baghdad International Airport",
                 "country": "IQ",
                 "region": "IQ-BG",
-                "municipality": "Baghdad"
+                "municipality": "Baghdad",
+                "iata": "BGW"
             }
         },
         {
@@ -6542,7 +6882,8 @@
                 "name": "Basrah International Airport",
                 "country": "IQ",
                 "region": "IQ-BA",
-                "municipality": "Basrah"
+                "municipality": "Basrah",
+                "iata": "BSR"
             }
         },
         {
@@ -6558,7 +6899,8 @@
                 "name": "Aleppo International Airport",
                 "country": "SY",
                 "region": "SY-HL",
-                "municipality": "Aleppo"
+                "municipality": "Aleppo",
+                "iata": "ALP"
             }
         },
         {
@@ -6574,7 +6916,8 @@
                 "name": "Damascus International Airport",
                 "country": "SY",
                 "region": "SY-DI",
-                "municipality": "Damascus"
+                "municipality": "Damascus",
+                "iata": "DAM"
             }
         },
         {
@@ -6590,7 +6933,8 @@
                 "name": "Bassel Al-Assad International Airport",
                 "country": "SY",
                 "region": "SY-LA",
-                "municipality": "Latakia"
+                "municipality": "Latakia",
+                "iata": "LTK"
             }
         },
         {
@@ -6606,7 +6950,8 @@
                 "name": "Hamad International Airport",
                 "country": "QA",
                 "region": "QA-DA",
-                "municipality": "Doha"
+                "municipality": "Doha",
+                "iata": "DOH"
             }
         },
         {
@@ -6622,7 +6967,8 @@
                 "name": "Fairbanks International Airport",
                 "country": "US",
                 "region": "US-AK",
-                "municipality": "Fairbanks"
+                "municipality": "Fairbanks",
+                "iata": "FAI"
             }
         },
         {
@@ -6638,7 +6984,8 @@
                 "name": "Ted Stevens Anchorage International Airport",
                 "country": "US",
                 "region": "US-AK",
-                "municipality": "Anchorage"
+                "municipality": "Anchorage",
+                "iata": "ANC"
             }
         },
         {
@@ -6654,7 +7001,8 @@
                 "name": "Antonio B. Won Pat International Airport",
                 "country": "GU",
                 "region": "GU-U-A",
-                "municipality": "Hagåtña, Guam International Airport"
+                "municipality": "Hagåtña, Guam International Airport",
+                "iata": "GUM"
             }
         },
         {
@@ -6670,7 +7018,8 @@
                 "name": "Laguindingan Airport",
                 "country": "PH",
                 "region": "PH-MSR",
-                "municipality": "Cagayan de Oro City"
+                "municipality": "Cagayan de Oro City",
+                "iata": "CGY"
             }
         },
         {
@@ -6686,7 +7035,8 @@
                 "name": "Northern Cagayan International Airport",
                 "country": "PH",
                 "region": "PH-CAG",
-                "municipality": "Lal-lo"
+                "municipality": "Lal-lo",
+                "iata": ""
             }
         },
         {
@@ -6702,7 +7052,8 @@
                 "name": "Daniel K Inouye International Airport",
                 "country": "US",
                 "region": "US-HI",
-                "municipality": "Honolulu"
+                "municipality": "Honolulu",
+                "iata": "HNL"
             }
         },
         {
@@ -6718,7 +7069,8 @@
                 "name": "Tamim Airbase",
                 "country": "QA",
                 "region": "QA-U-A",
-                "municipality": "Dukhan"
+                "municipality": "Dukhan",
+                "iata": ""
             }
         },
         {
@@ -6734,7 +7086,8 @@
                 "name": "Kinmen Airport",
                 "country": "TW",
                 "region": "TW-X-KM",
-                "municipality": "Shang-I"
+                "municipality": "Shang-I",
+                "iata": "KNH"
             }
         },
         {
@@ -6750,7 +7103,8 @@
                 "name": "Kaohsiung International Airport",
                 "country": "TW",
                 "region": "TW-KHH",
-                "municipality": "Kaohsiung City"
+                "municipality": "Kaohsiung City",
+                "iata": "KHH"
             }
         },
         {
@@ -6766,7 +7120,8 @@
                 "name": "Taiwan Taoyuan International Airport",
                 "country": "TW",
                 "region": "TW-TAO",
-                "municipality": "Taipei"
+                "municipality": "Taipei",
+                "iata": "TPE"
             }
         },
         {
@@ -6782,7 +7137,8 @@
                 "name": "Narita International Airport",
                 "country": "JP",
                 "region": "JP-12",
-                "municipality": "Tokyo"
+                "municipality": "Tokyo",
+                "iata": "NRT"
             }
         },
         {
@@ -6798,7 +7154,8 @@
                 "name": "Kansai International Airport",
                 "country": "JP",
                 "region": "JP-27",
-                "municipality": "Osaka"
+                "municipality": "Osaka",
+                "iata": "KIX"
             }
         },
         {
@@ -6814,7 +7171,8 @@
                 "name": "New Chitose Airport",
                 "country": "JP",
                 "region": "JP-01",
-                "municipality": "Chitose / Tomakomai"
+                "municipality": "Chitose / Tomakomai",
+                "iata": "CTS"
             }
         },
         {
@@ -6830,7 +7188,8 @@
                 "name": "Fukuoka Airport",
                 "country": "JP",
                 "region": "JP-40",
-                "municipality": "Fukuoka"
+                "municipality": "Fukuoka",
+                "iata": "FUK"
             }
         },
         {
@@ -6846,7 +7205,8 @@
                 "name": "Kagoshima Airport",
                 "country": "JP",
                 "region": "JP-46",
-                "municipality": "Kagoshima"
+                "municipality": "Kagoshima",
+                "iata": "KOJ"
             }
         },
         {
@@ -6862,7 +7222,8 @@
                 "name": "Chubu Centrair International Airport",
                 "country": "JP",
                 "region": "JP-23",
-                "municipality": "Tokoname"
+                "municipality": "Tokoname",
+                "iata": "NGO"
             }
         },
         {
@@ -6878,7 +7239,8 @@
                 "name": "Mt. Fuji Shizuoka Airport",
                 "country": "JP",
                 "region": "JP-22",
-                "municipality": "Makinohara / Shimada"
+                "municipality": "Makinohara / Shimada",
+                "iata": "FSZ"
             }
         },
         {
@@ -6894,7 +7256,8 @@
                 "name": "Osaka International Airport",
                 "country": "JP",
                 "region": "JP-27",
-                "municipality": "Osaka"
+                "municipality": "Osaka",
+                "iata": "ITM"
             }
         },
         {
@@ -6910,23 +7273,8 @@
                 "name": "Tokyo Haneda International Airport",
                 "country": "JP",
                 "region": "JP-13",
-                "municipality": "Tokyo"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    139.34800720214844,
-                    35.74850082397461
-                ]
-            },
-            "properties": {
-                "name": "Yokota Air Base",
-                "country": "JP",
-                "region": "JP-13",
-                "municipality": "Fussa"
+                "municipality": "Tokyo",
+                "iata": "HND"
             }
         },
         {
@@ -6942,23 +7290,8 @@
                 "name": "Muan International Airport",
                 "country": "KR",
                 "region": "KR-46",
-                "municipality": "Piseo-ri (Muan)"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    126.61599731445312,
-                    35.90380096435547
-                ]
-            },
-            "properties": {
-                "name": "Kunsan Air Base",
-                "country": "KR",
-                "region": "KR-45",
-                "municipality": "Kunsan"
+                "municipality": "Piseo-ri (Muan)",
+                "iata": "MWX"
             }
         },
         {
@@ -6974,7 +7307,8 @@
                 "name": "Jeju International Airport",
                 "country": "KR",
                 "region": "KR-49",
-                "municipality": "Jeju City"
+                "municipality": "Jeju City",
+                "iata": "CJU"
             }
         },
         {
@@ -6990,7 +7324,8 @@
                 "name": "Gimhae International Airport",
                 "country": "KR",
                 "region": "KR-26",
-                "municipality": "Busan"
+                "municipality": "Busan",
+                "iata": "PUS"
             }
         },
         {
@@ -7006,23 +7341,8 @@
                 "name": "Incheon International Airport",
                 "country": "KR",
                 "region": "KR-28",
-                "municipality": "Seoul"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    127.029999,
-                    37.090599
-                ]
-            },
-            "properties": {
-                "name": "Osan Air Base",
-                "country": "KR",
-                "region": "KR-41",
-                "municipality": ""
+                "municipality": "Seoul",
+                "iata": "ICN"
             }
         },
         {
@@ -7038,23 +7358,8 @@
                 "name": "Gimpo International Airport",
                 "country": "KR",
                 "region": "KR-11",
-                "municipality": "Seoul"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    127.498741,
-                    36.717008
-                ]
-            },
-            "properties": {
-                "name": "Cheongju International Airport/Cheongju Air Base (K-59/G-513)",
-                "country": "KR",
-                "region": "KR-43",
-                "municipality": "Cheongju"
+                "municipality": "Seoul",
+                "iata": "GMP"
             }
         },
         {
@@ -7070,23 +7375,8 @@
                 "name": "Naha Airport",
                 "country": "JP",
                 "region": "JP-47",
-                "municipality": "Naha"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    127.767998,
-                    26.3556
-                ]
-            },
-            "properties": {
-                "name": "Kadena Air Base",
-                "country": "JP",
-                "region": "JP-47",
-                "municipality": ""
+                "municipality": "Naha",
+                "iata": "OKA"
             }
         },
         {
@@ -7102,7 +7392,8 @@
                 "name": "Diosdado Macapagal International Airport",
                 "country": "PH",
                 "region": "PH-PAM",
-                "municipality": "Angeles/Mabalacat"
+                "municipality": "Angeles/Mabalacat",
+                "iata": "CRK"
             }
         },
         {
@@ -7118,7 +7409,8 @@
                 "name": "Ninoy Aquino International Airport",
                 "country": "PH",
                 "region": "PH-U-A",
-                "municipality": "Manila"
+                "municipality": "Manila",
+                "iata": "MNL"
             }
         },
         {
@@ -7134,7 +7426,8 @@
                 "name": "Francisco Bangoy International Airport",
                 "country": "PH",
                 "region": "PH-DAV",
-                "municipality": "Davao City"
+                "municipality": "Davao City",
+                "iata": "DVO"
             }
         },
         {
@@ -7150,23 +7443,8 @@
                 "name": "Mactan Cebu International Airport",
                 "country": "PH",
                 "region": "PH-CEB",
-                "municipality": "Lapu-Lapu City"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    39.44499969482422,
-                    52.6349983215332
-                ]
-            },
-            "properties": {
-                "name": "Lipetsk Air Base",
-                "country": "RU",
-                "region": "RU-LIP",
-                "municipality": "Lipetsk"
+                "municipality": "Lapu-Lapu City",
+                "iata": "CEB"
             }
         },
         {
@@ -7182,39 +7460,8 @@
                 "name": "Grozny North Airport",
                 "country": "RU",
                 "region": "RU-CE",
-                "municipality": "Grozny"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    128.445007,
-                    51.169997
-                ]
-            },
-            "properties": {
-                "name": "Ukrainka Air Base",
-                "country": "RU",
-                "region": "RU-AMU",
-                "municipality": "Belogorsk"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    33.463901519775,
-                    68.151802062988
-                ]
-            },
-            "properties": {
-                "name": "Olenya Air Base",
-                "country": "RU",
-                "region": "RU-MUR",
-                "municipality": "Olenegorsk"
+                "municipality": "Grozny",
+                "iata": "GRV"
             }
         },
         {
@@ -7230,7 +7477,8 @@
                 "name": "Ministro Pistarini International Airport",
                 "country": "AR",
                 "region": "AR-B",
-                "municipality": "Buenos Aires"
+                "municipality": "Buenos Aires",
+                "iata": "EZE"
             }
         },
         {
@@ -7246,7 +7494,8 @@
                 "name": "Val de Cans/Júlio Cezar Ribeiro International Airport",
                 "country": "BR",
                 "region": "BR-PA",
-                "municipality": "Belém"
+                "municipality": "Belém",
+                "iata": "BEL"
             }
         },
         {
@@ -7262,7 +7511,8 @@
                 "name": "Presidente Juscelino Kubistschek International Airport",
                 "country": "BR",
                 "region": "BR-DF",
-                "municipality": "Brasília"
+                "municipality": "Brasília",
+                "iata": "BSB"
             }
         },
         {
@@ -7278,7 +7528,8 @@
                 "name": "Tancredo Neves International Airport",
                 "country": "BR",
                 "region": "BR-MG",
-                "municipality": "Belo Horizonte"
+                "municipality": "Belo Horizonte",
+                "iata": "CNF"
             }
         },
         {
@@ -7294,7 +7545,8 @@
                 "name": "Afonso Pena Airport",
                 "country": "BR",
                 "region": "BR-PR",
-                "municipality": "Curitiba"
+                "municipality": "Curitiba",
+                "iata": "CWB"
             }
         },
         {
@@ -7310,7 +7562,8 @@
                 "name": "Eduardo Gomes International Airport",
                 "country": "BR",
                 "region": "BR-AM",
-                "municipality": "Manaus"
+                "municipality": "Manaus",
+                "iata": "MAO"
             }
         },
         {
@@ -7326,7 +7579,8 @@
                 "name": "Hercílio Luz International Airport",
                 "country": "BR",
                 "region": "BR-SC",
-                "municipality": "Florianópolis"
+                "municipality": "Florianópolis",
+                "iata": "FLN"
             }
         },
         {
@@ -7342,7 +7596,8 @@
                 "name": "Rio Galeão – Tom Jobim International Airport",
                 "country": "BR",
                 "region": "BR-RJ",
-                "municipality": "Rio De Janeiro"
+                "municipality": "Rio De Janeiro",
+                "iata": "GIG"
             }
         },
         {
@@ -7358,7 +7613,8 @@
                 "name": "Guarulhos - Governador André Franco Montoro International Airport",
                 "country": "BR",
                 "region": "BR-SP",
-                "municipality": "São Paulo"
+                "municipality": "São Paulo",
+                "iata": "GRU"
             }
         },
         {
@@ -7374,7 +7630,8 @@
                 "name": "Governador Aluízio Alves International Airport",
                 "country": "BR",
                 "region": "BR-RN",
-                "municipality": "Natal"
+                "municipality": "Natal",
+                "iata": "NAT"
             }
         },
         {
@@ -7390,7 +7647,8 @@
                 "name": "Congonhas Airport",
                 "country": "BR",
                 "region": "BR-SP",
-                "municipality": "São Paulo"
+                "municipality": "São Paulo",
+                "iata": "CGH"
             }
         },
         {
@@ -7406,7 +7664,8 @@
                 "name": "Deputado Luiz Eduardo Magalhães International Airport",
                 "country": "BR",
                 "region": "BR-BA",
-                "municipality": "Salvador"
+                "municipality": "Salvador",
+                "iata": "SSA"
             }
         },
         {
@@ -7422,7 +7681,8 @@
                 "name": "Comodoro Arturo Merino Benítez International Airport",
                 "country": "CL",
                 "region": "CL-RM",
-                "municipality": "Santiago"
+                "municipality": "Santiago",
+                "iata": "SCL"
             }
         },
         {
@@ -7438,7 +7698,8 @@
                 "name": "Cotopaxi International Airport",
                 "country": "EC",
                 "region": "EC-X",
-                "municipality": "Latacunga"
+                "municipality": "Latacunga",
+                "iata": "LTX"
             }
         },
         {
@@ -7454,7 +7715,8 @@
                 "name": "Mariscal Sucre International Airport",
                 "country": "EC",
                 "region": "EC-P",
-                "municipality": "Quito"
+                "municipality": "Quito",
+                "iata": "UIO"
             }
         },
         {
@@ -7470,7 +7732,8 @@
                 "name": "El Dorado International Airport",
                 "country": "CO",
                 "region": "CO-CUN",
-                "municipality": "Bogota"
+                "municipality": "Bogota",
+                "iata": "BOG"
             }
         },
         {
@@ -7486,7 +7749,8 @@
                 "name": "Viru Viru International Airport",
                 "country": "BO",
                 "region": "BO-S",
-                "municipality": "Santa Cruz"
+                "municipality": "Santa Cruz",
+                "iata": "VVI"
             }
         },
         {
@@ -7502,7 +7766,8 @@
                 "name": "Jorge Chávez International Airport",
                 "country": "PE",
                 "region": "PE-LIM",
-                "municipality": "Lima"
+                "municipality": "Lima",
+                "iata": "LIM"
             }
         },
         {
@@ -7518,7 +7783,8 @@
                 "name": "Alejandro Velasco Astete International Airport",
                 "country": "PE",
                 "region": "PE-CUS",
-                "municipality": "Cusco"
+                "municipality": "Cusco",
+                "iata": "CUZ"
             }
         },
         {
@@ -7534,7 +7800,8 @@
                 "name": "Carrasco International /General C L Berisso Airport",
                 "country": "UY",
                 "region": "UY-CA",
-                "municipality": "Montevideo"
+                "municipality": "Montevideo",
+                "iata": "MVD"
             }
         },
         {
@@ -7550,7 +7817,8 @@
                 "name": "General José Antonio Anzoategui International Airport",
                 "country": "VE",
                 "region": "VE-B",
-                "municipality": "Barcelona"
+                "municipality": "Barcelona",
+                "iata": "BLA"
             }
         },
         {
@@ -7566,7 +7834,8 @@
                 "name": "Simón Bolívar International Airport",
                 "country": "VE",
                 "region": "VE-X",
-                "municipality": "Caracas"
+                "municipality": "Caracas",
+                "iata": "CCS"
             }
         },
         {
@@ -7582,7 +7851,8 @@
                 "name": "Pointe-à-Pitre Le Raizet",
                 "country": "GP",
                 "region": "GP-U-A",
-                "municipality": "Pointe-à-Pitre"
+                "municipality": "Pointe-à-Pitre",
+                "iata": "PTP"
             }
         },
         {
@@ -7598,7 +7868,8 @@
                 "name": "Luis Munoz Marin International Airport",
                 "country": "PR",
                 "region": "PR-U-A",
-                "municipality": "San Juan"
+                "municipality": "San Juan",
+                "iata": "SJU"
             }
         },
         {
@@ -7614,7 +7885,8 @@
                 "name": "Enfidha - Hammamet International Airport",
                 "country": "TN",
                 "region": "TN-51",
-                "municipality": "Enfidha"
+                "municipality": "Enfidha",
+                "iata": "NBE"
             }
         },
         {
@@ -7630,7 +7902,8 @@
                 "name": "Princess Juliana International Airport",
                 "country": "SX",
                 "region": "SX-U-A",
-                "municipality": "Saint Martin"
+                "municipality": "Saint Martin",
+                "iata": "SXM"
             }
         },
         {
@@ -7646,7 +7919,8 @@
                 "name": "Çukurova Airport",
                 "country": "TR",
                 "region": "TR-33",
-                "municipality": "Tarsus"
+                "municipality": "Tarsus",
+                "iata": ""
             }
         },
         {
@@ -7662,7 +7936,8 @@
                 "name": "Almaty Airport",
                 "country": "KZ",
                 "region": "KZ-ALM",
-                "municipality": "Almaty"
+                "municipality": "Almaty",
+                "iata": "ALA"
             }
         },
         {
@@ -7678,7 +7953,8 @@
                 "name": "Astana International Airport",
                 "country": "KZ",
                 "region": "KZ-AKM",
-                "municipality": "Astana"
+                "municipality": "Astana",
+                "iata": "TSE"
             }
         },
         {
@@ -7694,7 +7970,8 @@
                 "name": "Manas International Airport",
                 "country": "KG",
                 "region": "KG-C",
-                "municipality": "Bishkek"
+                "municipality": "Bishkek",
+                "iata": "FRU"
             }
         },
         {
@@ -7710,7 +7987,8 @@
                 "name": "Sary-Arka Airport",
                 "country": "KZ",
                 "region": "KZ-KAR",
-                "municipality": "Karaganda"
+                "municipality": "Karaganda",
+                "iata": "KGF"
             }
         },
         {
@@ -7726,7 +8004,8 @@
                 "name": "Heydar Aliyev International Airport",
                 "country": "AZ",
                 "region": "AZ-BA",
-                "municipality": "Baku"
+                "municipality": "Baku",
+                "iata": "GYD"
             }
         },
         {
@@ -7742,7 +8021,8 @@
                 "name": "Zvartnots International Airport",
                 "country": "AM",
                 "region": "AM-ER",
-                "municipality": "Yerevan"
+                "municipality": "Yerevan",
+                "iata": "EVN"
             }
         },
         {
@@ -7758,7 +8038,8 @@
                 "name": "Tbilisi International Airport",
                 "country": "GE",
                 "region": "GE-TB",
-                "municipality": "Tbilisi"
+                "municipality": "Tbilisi",
+                "iata": "TBS"
             }
         },
         {
@@ -7774,7 +8055,8 @@
                 "name": "Khabarovsk-Novy Airport",
                 "country": "RU",
                 "region": "RU-KHA",
-                "municipality": "Khabarovsk"
+                "municipality": "Khabarovsk",
+                "iata": "KHV"
             }
         },
         {
@@ -7790,7 +8072,8 @@
                 "name": "Boryspil International Airport",
                 "country": "UA",
                 "region": "UA-32",
-                "municipality": "Kiev"
+                "municipality": "Kiev",
+                "iata": "KBP"
             }
         },
         {
@@ -7806,7 +8089,8 @@
                 "name": "Simferopol International Airport",
                 "country": "UA",
                 "region": "UA-43",
-                "municipality": "Simferopol"
+                "municipality": "Simferopol",
+                "iata": "SIP"
             }
         },
         {
@@ -7822,7 +8106,8 @@
                 "name": "Kharkiv International Airport",
                 "country": "UA",
                 "region": "UA-63",
-                "municipality": "Kharkiv"
+                "municipality": "Kharkiv",
+                "iata": "HRK"
             }
         },
         {
@@ -7838,7 +8123,8 @@
                 "name": "Odessa International Airport",
                 "country": "UA",
                 "region": "UA-51",
-                "municipality": "Odessa"
+                "municipality": "Odessa",
+                "iata": "ODS"
             }
         },
         {
@@ -7854,7 +8140,8 @@
                 "name": "Pulkovo Airport",
                 "country": "RU",
                 "region": "RU-SPE",
-                "municipality": "St. Petersburg"
+                "municipality": "St. Petersburg",
+                "iata": "LED"
             }
         },
         {
@@ -7870,7 +8157,8 @@
                 "name": "Minsk National Airport",
                 "country": "BY",
                 "region": "BY-MI",
-                "municipality": "Minsk"
+                "municipality": "Minsk",
+                "iata": "MSQ"
             }
         },
         {
@@ -7886,7 +8174,8 @@
                 "name": "Yemelyanovo Airport",
                 "country": "RU",
                 "region": "RU-KYA",
-                "municipality": "Krasnoyarsk"
+                "municipality": "Krasnoyarsk",
+                "iata": "KJA"
             }
         },
         {
@@ -7902,7 +8191,8 @@
                 "name": "Tolmachevo Airport",
                 "country": "RU",
                 "region": "RU-NVS",
-                "municipality": "Novosibirsk"
+                "municipality": "Novosibirsk",
+                "iata": "OVB"
             }
         },
         {
@@ -7918,7 +8208,8 @@
                 "name": "Platov International Airport",
                 "country": "RU",
                 "region": "RU-ROS",
-                "municipality": "Rostov-on-Don"
+                "municipality": "Rostov-on-Don",
+                "iata": "ROV"
             }
         },
         {
@@ -7934,7 +8225,8 @@
                 "name": "Sochi International Airport",
                 "country": "RU",
                 "region": "RU-KDA",
-                "municipality": "Sochi"
+                "municipality": "Sochi",
+                "iata": "AER"
             }
         },
         {
@@ -7950,7 +8242,8 @@
                 "name": "Koltsovo Airport",
                 "country": "RU",
                 "region": "RU-SVE",
-                "municipality": "Yekaterinburg"
+                "municipality": "Yekaterinburg",
+                "iata": "SVX"
             }
         },
         {
@@ -7966,7 +8259,8 @@
                 "name": "Ashgabat International Airport",
                 "country": "TM",
                 "region": "TM-A",
-                "municipality": "Ashgabat"
+                "municipality": "Ashgabat",
+                "iata": "ASB"
             }
         },
         {
@@ -7982,7 +8276,8 @@
                 "name": "Tashkent International Airport",
                 "country": "UZ",
                 "region": "UZ-TO",
-                "municipality": "Tashkent"
+                "municipality": "Tashkent",
+                "iata": "TAS"
             }
         },
         {
@@ -7998,7 +8293,8 @@
                 "name": "Zhukovsky International Airport",
                 "country": "RU",
                 "region": "RU-MOS",
-                "municipality": "Moscow"
+                "municipality": "Moscow",
+                "iata": "ZIA"
             }
         },
         {
@@ -8014,7 +8310,8 @@
                 "name": "Domodedovo International Airport",
                 "country": "RU",
                 "region": "RU-MOS",
-                "municipality": "Moscow"
+                "municipality": "Moscow",
+                "iata": "DME"
             }
         },
         {
@@ -8030,7 +8327,8 @@
                 "name": "Sheremetyevo International Airport",
                 "country": "RU",
                 "region": "RU-MOS",
-                "municipality": "Moscow"
+                "municipality": "Moscow",
+                "iata": "SVO"
             }
         },
         {
@@ -8046,7 +8344,8 @@
                 "name": "Vnukovo International Airport",
                 "country": "RU",
                 "region": "RU-MOS",
-                "municipality": "Moscow"
+                "municipality": "Moscow",
+                "iata": "VKO"
             }
         },
         {
@@ -8062,7 +8361,8 @@
                 "name": "Kazan International Airport",
                 "country": "RU",
                 "region": "RU-TA",
-                "municipality": "Kazan"
+                "municipality": "Kazan",
+                "iata": "KZN"
             }
         },
         {
@@ -8078,7 +8378,8 @@
                 "name": "Borisoglebskoye Airport",
                 "country": "RU",
                 "region": "RU-TA",
-                "municipality": "Kazan"
+                "municipality": "Kazan",
+                "iata": ""
             }
         },
         {
@@ -8094,7 +8395,8 @@
                 "name": "Ufa International Airport",
                 "country": "RU",
                 "region": "RU-BA",
-                "municipality": "Ufa"
+                "municipality": "Ufa",
+                "iata": "UFA"
             }
         },
         {
@@ -8110,7 +8412,8 @@
                 "name": "Kurumoch International Airport",
                 "country": "RU",
                 "region": "RU-SAM",
-                "municipality": "Samara"
+                "municipality": "Samara",
+                "iata": "KUF"
             }
         },
         {
@@ -8126,7 +8429,8 @@
                 "name": "Chhatrapati Shivaji International Airport",
                 "country": "IN",
                 "region": "IN-MM",
-                "municipality": "Mumbai"
+                "municipality": "Mumbai",
+                "iata": "BOM"
             }
         },
         {
@@ -8142,7 +8446,8 @@
                 "name": "Dabolim Airport",
                 "country": "IN",
                 "region": "IN-GA",
-                "municipality": "Vasco da Gama"
+                "municipality": "Vasco da Gama",
+                "iata": "GOI"
             }
         },
         {
@@ -8158,7 +8463,8 @@
                 "name": "Bandaranaike International Colombo Airport",
                 "country": "LK",
                 "region": "LK-1",
-                "municipality": "Colombo"
+                "municipality": "Colombo",
+                "iata": "CMB"
             }
         },
         {
@@ -8174,7 +8480,8 @@
                 "name": "Mattala Rajapaksa International Airport",
                 "country": "LK",
                 "region": "LK-3",
-                "municipality": ""
+                "municipality": "",
+                "iata": "HRI"
             }
         },
         {
@@ -8190,7 +8497,8 @@
                 "name": "Phnom Penh International Airport",
                 "country": "KH",
                 "region": "KH-8",
-                "municipality": "Phnom Penh"
+                "municipality": "Phnom Penh",
+                "iata": "PNH"
             }
         },
         {
@@ -8206,7 +8514,8 @@
                 "name": "Siem Reap International Airport",
                 "country": "KH",
                 "region": "KH-17",
-                "municipality": "Siem Reap"
+                "municipality": "Siem Reap",
+                "iata": "REP"
             }
         },
         {
@@ -8222,7 +8531,8 @@
                 "name": "Netaji Subhash Chandra Bose International Airport",
                 "country": "IN",
                 "region": "IN-WB",
-                "municipality": "Kolkata"
+                "municipality": "Kolkata",
+                "iata": "CCU"
             }
         },
         {
@@ -8238,7 +8548,8 @@
                 "name": "Hazrat Shahjalal International Airport",
                 "country": "BD",
                 "region": "BD-3",
-                "municipality": "Dhaka"
+                "municipality": "Dhaka",
+                "iata": "DAC"
             }
         },
         {
@@ -8254,7 +8565,8 @@
                 "name": "Hong Kong International Airport",
                 "country": "HK",
                 "region": "HK-U-A",
-                "municipality": "Hong Kong"
+                "municipality": "Hong Kong",
+                "iata": "HKG"
             }
         },
         {
@@ -8270,7 +8582,8 @@
                 "name": "Sri Guru Ram Dass Jee International Airport",
                 "country": "IN",
                 "region": "IN-PB",
-                "municipality": "Amritsar"
+                "municipality": "Amritsar",
+                "iata": "ATQ"
             }
         },
         {
@@ -8286,7 +8599,8 @@
                 "name": "Indira Gandhi International Airport",
                 "country": "IN",
                 "region": "IN-DL",
-                "municipality": "New Delhi"
+                "municipality": "New Delhi",
+                "iata": "DEL"
             }
         },
         {
@@ -8302,7 +8616,8 @@
                 "name": "Macau International Airport",
                 "country": "MO",
                 "region": "MO-U-A",
-                "municipality": "Macau"
+                "municipality": "Macau",
+                "iata": "MFM"
             }
         },
         {
@@ -8318,7 +8633,8 @@
                 "name": "Tribhuvan International Airport",
                 "country": "NP",
                 "region": "NP-BA",
-                "municipality": "Kathmandu"
+                "municipality": "Kathmandu",
+                "iata": "KTM"
             }
         },
         {
@@ -8334,7 +8650,8 @@
                 "name": "Kempegowda International Airport",
                 "country": "IN",
                 "region": "IN-KA",
-                "municipality": "Bangalore"
+                "municipality": "Bangalore",
+                "iata": "BLR"
             }
         },
         {
@@ -8350,7 +8667,8 @@
                 "name": "Cochin International Airport",
                 "country": "IN",
                 "region": "IN-KL",
-                "municipality": "Kochi"
+                "municipality": "Kochi",
+                "iata": "COK"
             }
         },
         {
@@ -8366,7 +8684,8 @@
                 "name": "Calicut International Airport",
                 "country": "IN",
                 "region": "IN-KL",
-                "municipality": "Calicut"
+                "municipality": "Calicut",
+                "iata": "CCJ"
             }
         },
         {
@@ -8382,7 +8701,8 @@
                 "name": "Rajiv Gandhi International Airport",
                 "country": "IN",
                 "region": "IN-TG",
-                "municipality": "Hyderabad"
+                "municipality": "Hyderabad",
+                "iata": "HYD"
             }
         },
         {
@@ -8398,7 +8718,8 @@
                 "name": "Chennai International Airport",
                 "country": "IN",
                 "region": "IN-TN",
-                "municipality": "Chennai"
+                "municipality": "Chennai",
+                "iata": "MAA"
             }
         },
         {
@@ -8414,7 +8735,8 @@
                 "name": "Trivandrum International Airport",
                 "country": "IN",
                 "region": "IN-KL",
-                "municipality": "Thiruvananthapuram"
+                "municipality": "Thiruvananthapuram",
+                "iata": "TRV"
             }
         },
         {
@@ -8430,7 +8752,8 @@
                 "name": "Malé International Airport",
                 "country": "MV",
                 "region": "MV-MLE",
-                "municipality": "Malé"
+                "municipality": "Malé",
+                "iata": "MLE"
             }
         },
         {
@@ -8446,7 +8769,8 @@
                 "name": "Don Mueang International Airport",
                 "country": "TH",
                 "region": "TH-10",
-                "municipality": "Bangkok"
+                "municipality": "Bangkok",
+                "iata": "DMK"
             }
         },
         {
@@ -8462,7 +8786,8 @@
                 "name": "Suvarnabhumi Airport",
                 "country": "TH",
                 "region": "TH-10",
-                "municipality": "Bangkok"
+                "municipality": "Bangkok",
+                "iata": "BKK"
             }
         },
         {
@@ -8478,7 +8803,8 @@
                 "name": "Chiang Mai International Airport",
                 "country": "TH",
                 "region": "TH-50",
-                "municipality": "Chiang Mai"
+                "municipality": "Chiang Mai",
+                "iata": "CNX"
             }
         },
         {
@@ -8494,7 +8820,8 @@
                 "name": "Phuket International Airport",
                 "country": "TH",
                 "region": "TH-83",
-                "municipality": "Phuket"
+                "municipality": "Phuket",
+                "iata": "HKT"
             }
         },
         {
@@ -8510,7 +8837,8 @@
                 "name": "Da Nang International Airport",
                 "country": "VN",
                 "region": "VN-60",
-                "municipality": "Da Nang"
+                "municipality": "Da Nang",
+                "iata": "DAD"
             }
         },
         {
@@ -8526,7 +8854,8 @@
                 "name": "Noi Bai International Airport",
                 "country": "VN",
                 "region": "VN-15",
-                "municipality": "Hanoi"
+                "municipality": "Hanoi",
+                "iata": "HAN"
             }
         },
         {
@@ -8542,7 +8871,8 @@
                 "name": "Tan Son Nhat International Airport",
                 "country": "VN",
                 "region": "VN-23",
-                "municipality": "Ho Chi Minh City"
+                "municipality": "Ho Chi Minh City",
+                "iata": "SGN"
             }
         },
         {
@@ -8558,7 +8888,8 @@
                 "name": "Mandalay International Airport",
                 "country": "MM",
                 "region": "MM-04",
-                "municipality": "Mandalay"
+                "municipality": "Mandalay",
+                "iata": "MDL"
             }
         },
         {
@@ -8574,7 +8905,8 @@
                 "name": "Yangon International Airport",
                 "country": "MM",
                 "region": "MM-06",
-                "municipality": "Yangon"
+                "municipality": "Yangon",
+                "iata": "RGN"
             }
         },
         {
@@ -8590,7 +8922,8 @@
                 "name": "Hasanuddin International Airport",
                 "country": "ID",
                 "region": "ID-SN",
-                "municipality": "Ujung Pandang-Celebes Island"
+                "municipality": "Ujung Pandang-Celebes Island",
+                "iata": "UPG"
             }
         },
         {
@@ -8606,7 +8939,8 @@
                 "name": "Ngurah Rai (Bali) International Airport",
                 "country": "ID",
                 "region": "ID-BA",
-                "municipality": "Denpasar-Bali Island"
+                "municipality": "Denpasar-Bali Island",
+                "iata": "DPS"
             }
         },
         {
@@ -8622,7 +8956,8 @@
                 "name": "Sentani International Airport",
                 "country": "ID",
                 "region": "ID-PA",
-                "municipality": "Jayapura-Papua Island"
+                "municipality": "Jayapura-Papua Island",
+                "iata": "DJJ"
             }
         },
         {
@@ -8638,7 +8973,8 @@
                 "name": "Juanda International Airport",
                 "country": "ID",
                 "region": "ID-JI",
-                "municipality": "Surabaya"
+                "municipality": "Surabaya",
+                "iata": "SUB"
             }
         },
         {
@@ -8654,7 +8990,8 @@
                 "name": "Dominique Edward Osok Airport",
                 "country": "ID",
                 "region": "ID-PB",
-                "municipality": "Sorong-Papua Island"
+                "municipality": "Sorong-Papua Island",
+                "iata": "SOQ"
             }
         },
         {
@@ -8670,7 +9007,8 @@
                 "name": "Brunei International Airport",
                 "country": "BN",
                 "region": "BN-BM",
-                "municipality": "Bandar Seri Begawan"
+                "municipality": "Bandar Seri Begawan",
+                "iata": "BWN"
             }
         },
         {
@@ -8686,7 +9024,8 @@
                 "name": "Soekarno-Hatta International Airport",
                 "country": "ID",
                 "region": "ID-BT",
-                "municipality": "Jakarta"
+                "municipality": "Jakarta",
+                "iata": "CGK"
             }
         },
         {
@@ -8702,7 +9041,8 @@
                 "name": "Kualanamu International Airport",
                 "country": "ID",
                 "region": "ID-SU",
-                "municipality": ""
+                "municipality": "",
+                "iata": "KNO"
             }
         },
         {
@@ -8718,7 +9058,8 @@
                 "name": "Kuala Lumpur International Airport",
                 "country": "MY",
                 "region": "MY-14",
-                "municipality": "Kuala Lumpur"
+                "municipality": "Kuala Lumpur",
+                "iata": "KUL"
             }
         },
         {
@@ -8734,7 +9075,8 @@
                 "name": "Singapore Changi Airport",
                 "country": "SG",
                 "region": "SG-04",
-                "municipality": "Singapore"
+                "municipality": "Singapore",
+                "iata": "SIN"
             }
         },
         {
@@ -8750,7 +9092,8 @@
                 "name": "Brisbane International Airport",
                 "country": "AU",
                 "region": "AU-QLD",
-                "municipality": "Brisbane"
+                "municipality": "Brisbane",
+                "iata": "BNE"
             }
         },
         {
@@ -8766,7 +9109,8 @@
                 "name": "Melbourne International Airport",
                 "country": "AU",
                 "region": "AU-VIC",
-                "municipality": "Melbourne"
+                "municipality": "Melbourne",
+                "iata": "MEL"
             }
         },
         {
@@ -8782,7 +9126,8 @@
                 "name": "Yantai Penglai International Airport",
                 "country": "CN",
                 "region": "CN-37",
-                "municipality": "Yantai"
+                "municipality": "Yantai",
+                "iata": "YNT"
             }
         },
         {
@@ -8798,7 +9143,8 @@
                 "name": "Adelaide International Airport",
                 "country": "AU",
                 "region": "AU-SA",
-                "municipality": "Adelaide"
+                "municipality": "Adelaide",
+                "iata": "ADL"
             }
         },
         {
@@ -8814,7 +9160,8 @@
                 "name": "Perth International Airport",
                 "country": "AU",
                 "region": "AU-WA",
-                "municipality": "Perth"
+                "municipality": "Perth",
+                "iata": "PER"
             }
         },
         {
@@ -8830,7 +9177,8 @@
                 "name": "Canberra International Airport",
                 "country": "AU",
                 "region": "AU-ACT",
-                "municipality": "Canberra"
+                "municipality": "Canberra",
+                "iata": "CBR"
             }
         },
         {
@@ -8846,7 +9194,8 @@
                 "name": "Sydney Kingsford Smith International Airport",
                 "country": "AU",
                 "region": "AU-NSW",
-                "municipality": "Sydney"
+                "municipality": "Sydney",
+                "iata": "SYD"
             }
         },
         {
@@ -8862,7 +9211,8 @@
                 "name": "Beijing Capital International Airport",
                 "country": "CN",
                 "region": "CN-11",
-                "municipality": "Beijing"
+                "municipality": "Beijing",
+                "iata": "PEK"
             }
         },
         {
@@ -8878,7 +9228,8 @@
                 "name": "Beijing Daxing International Airport",
                 "country": "CN",
                 "region": "CN-13",
-                "municipality": "Beijing"
+                "municipality": "Beijing",
+                "iata": "PKX"
             }
         },
         {
@@ -8894,7 +9245,8 @@
                 "name": "Baita International Airport",
                 "country": "CN",
                 "region": "CN-15",
-                "municipality": "Hohhot"
+                "municipality": "Hohhot",
+                "iata": "HET"
             }
         },
         {
@@ -8910,7 +9262,8 @@
                 "name": "Beijing Nanyuan Airport",
                 "country": "CN",
                 "region": "CN-11",
-                "municipality": "Beijing"
+                "municipality": "Beijing",
+                "iata": "NAY"
             }
         },
         {
@@ -8926,7 +9279,8 @@
                 "name": "Tianjin Binhai International Airport",
                 "country": "CN",
                 "region": "CN-12",
-                "municipality": "Tianjin"
+                "municipality": "Tianjin",
+                "iata": "TSN"
             }
         },
         {
@@ -8942,7 +9296,8 @@
                 "name": "Taiyuan Wusu Airport",
                 "country": "CN",
                 "region": "CN-14",
-                "municipality": "Taiyuan"
+                "municipality": "Taiyuan",
+                "iata": "TYN"
             }
         },
         {
@@ -8958,7 +9313,8 @@
                 "name": "Guangzhou Baiyun International Airport",
                 "country": "CN",
                 "region": "CN-44",
-                "municipality": "Guangzhou"
+                "municipality": "Guangzhou",
+                "iata": "CAN"
             }
         },
         {
@@ -8974,7 +9330,8 @@
                 "name": "Changsha Huanghua International Airport",
                 "country": "CN",
                 "region": "CN-43",
-                "municipality": "Changsha"
+                "municipality": "Changsha",
+                "iata": "CSX"
             }
         },
         {
@@ -8990,7 +9347,8 @@
                 "name": "Guilin Liangjiang International Airport",
                 "country": "CN",
                 "region": "CN-45",
-                "municipality": "Guilin City"
+                "municipality": "Guilin City",
+                "iata": "KWL"
             }
         },
         {
@@ -9006,7 +9364,8 @@
                 "name": "Nanning Wuxu Airport",
                 "country": "CN",
                 "region": "CN-45",
-                "municipality": "Nanning"
+                "municipality": "Nanning",
+                "iata": "NNG"
             }
         },
         {
@@ -9022,7 +9381,8 @@
                 "name": "Shenzhen Bao'an International Airport",
                 "country": "CN",
                 "region": "CN-44",
-                "municipality": "Shenzhen"
+                "municipality": "Shenzhen",
+                "iata": "SZX"
             }
         },
         {
@@ -9038,7 +9398,8 @@
                 "name": "Zhengzhou Xinzheng International Airport",
                 "country": "CN",
                 "region": "CN-41",
-                "municipality": "Zhengzhou"
+                "municipality": "Zhengzhou",
+                "iata": "CGO"
             }
         },
         {
@@ -9054,7 +9415,8 @@
                 "name": "Wuhan Tianhe International Airport",
                 "country": "CN",
                 "region": "CN-42",
-                "municipality": "Wuhan"
+                "municipality": "Wuhan",
+                "iata": "WUH"
             }
         },
         {
@@ -9070,7 +9432,8 @@
                 "name": "Haikou Meilan International Airport",
                 "country": "CN",
                 "region": "CN-46",
-                "municipality": "Haikou"
+                "municipality": "Haikou",
+                "iata": "HAK"
             }
         },
         {
@@ -9086,7 +9449,8 @@
                 "name": "Sanya Phoenix International Airport",
                 "country": "CN",
                 "region": "CN-46",
-                "municipality": "Sanya"
+                "municipality": "Sanya",
+                "iata": "SYX"
             }
         },
         {
@@ -9102,7 +9466,8 @@
                 "name": "Xi'an Xianyang International Airport",
                 "country": "CN",
                 "region": "CN-61",
-                "municipality": "Xi'an"
+                "municipality": "Xi'an",
+                "iata": "XIY"
             }
         },
         {
@@ -9118,7 +9483,8 @@
                 "name": "Chinggis Khaan International Airport",
                 "country": "MN",
                 "region": "MN-1",
-                "municipality": "Ulan Bator"
+                "municipality": "Ulan Bator",
+                "iata": "ULN"
             }
         },
         {
@@ -9134,7 +9500,8 @@
                 "name": "Kunming Changshui International Airport",
                 "country": "CN",
                 "region": "CN-53",
-                "municipality": "Kunming"
+                "municipality": "Kunming",
+                "iata": "KMG"
             }
         },
         {
@@ -9150,7 +9517,8 @@
                 "name": "Xiamen Gaoqi International Airport",
                 "country": "CN",
                 "region": "CN-35",
-                "municipality": "Xiamen"
+                "municipality": "Xiamen",
+                "iata": "XMN"
             }
         },
         {
@@ -9166,7 +9534,8 @@
                 "name": "Fuzhou Changle International Airport",
                 "country": "CN",
                 "region": "CN-35",
-                "municipality": "Fuzhou"
+                "municipality": "Fuzhou",
+                "iata": "FOC"
             }
         },
         {
@@ -9182,7 +9551,8 @@
                 "name": "Hangzhou Xiaoshan International Airport",
                 "country": "CN",
                 "region": "CN-33",
-                "municipality": "Hangzhou"
+                "municipality": "Hangzhou",
+                "iata": "HGH"
             }
         },
         {
@@ -9198,7 +9568,8 @@
                 "name": "Yaoqiang Airport",
                 "country": "CN",
                 "region": "CN-37",
-                "municipality": "Jinan"
+                "municipality": "Jinan",
+                "iata": "TNA"
             }
         },
         {
@@ -9214,7 +9585,8 @@
                 "name": "Ningbo Lishe International Airport",
                 "country": "CN",
                 "region": "CN-33",
-                "municipality": "Ningbo"
+                "municipality": "Ningbo",
+                "iata": "NGB"
             }
         },
         {
@@ -9230,7 +9602,8 @@
                 "name": "Nanjing Lukou Airport",
                 "country": "CN",
                 "region": "CN-32",
-                "municipality": "Nanjing"
+                "municipality": "Nanjing",
+                "iata": "NKG"
             }
         },
         {
@@ -9246,7 +9619,8 @@
                 "name": "Shanghai Pudong International Airport",
                 "country": "CN",
                 "region": "CN-31",
-                "municipality": "Shanghai"
+                "municipality": "Shanghai",
+                "iata": "PVG"
             }
         },
         {
@@ -9262,7 +9636,8 @@
                 "name": "Shanghai Hongqiao International Airport",
                 "country": "CN",
                 "region": "CN-31",
-                "municipality": "Shanghai"
+                "municipality": "Shanghai",
+                "iata": "SHA"
             }
         },
         {
@@ -9278,7 +9653,8 @@
                 "name": "Wenzhou Longwan International Airport",
                 "country": "CN",
                 "region": "CN-33",
-                "municipality": "Wenzhou"
+                "municipality": "Wenzhou",
+                "iata": "WNZ"
             }
         },
         {
@@ -9294,7 +9670,8 @@
                 "name": "Chongqing Jiangbei International Airport",
                 "country": "CN",
                 "region": "CN-50",
-                "municipality": "Chongqing"
+                "municipality": "Chongqing",
+                "iata": "CKG"
             }
         },
         {
@@ -9310,7 +9687,8 @@
                 "name": "Longdongbao Airport",
                 "country": "CN",
                 "region": "CN-52",
-                "municipality": "Guiyang"
+                "municipality": "Guiyang",
+                "iata": "KWE"
             }
         },
         {
@@ -9326,7 +9704,8 @@
                 "name": "Chengdu Shuangliu International Airport",
                 "country": "CN",
                 "region": "CN-51",
-                "municipality": "Chengdu"
+                "municipality": "Chengdu",
+                "iata": "CTU"
             }
         },
         {
@@ -9342,7 +9721,8 @@
                 "name": "Ürümqi Diwopu International Airport",
                 "country": "CN",
                 "region": "CN-65",
-                "municipality": "Ürümqi"
+                "municipality": "Ürümqi",
+                "iata": "URC"
             }
         },
         {
@@ -9358,7 +9738,8 @@
                 "name": "Taiping Airport",
                 "country": "CN",
                 "region": "CN-23",
-                "municipality": "Harbin"
+                "municipality": "Harbin",
+                "iata": "HRB"
             }
         },
         {
@@ -9374,7 +9755,8 @@
                 "name": "Zhoushuizi Airport",
                 "country": "CN",
                 "region": "CN-21",
-                "municipality": "Dalian"
+                "municipality": "Dalian",
+                "iata": "DLC"
             }
         },
         {
@@ -9390,7 +9772,8 @@
                 "name": "Taoxian Airport",
                 "country": "CN",
                 "region": "CN-21",
-                "municipality": "Shenyang"
+                "municipality": "Shenyang",
+                "iata": "SHE"
             }
         }
     ]
