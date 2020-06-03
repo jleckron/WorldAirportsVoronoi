@@ -13,7 +13,7 @@ var width = 960,
 
 var proj = d3.geoOrthographic()
     .scale(scale)
-    .translate([width / 2, height / 2 + 10])
+    .translate([width / 2, height / 2])
     .clipAngle(90)
     .rotate([90, -20, 0]);
 
@@ -69,12 +69,12 @@ Promise.all(src.map(url => d3.json(url))).then(function(values){
     console.log("Airports", places);
     
     cells = d3.geoVoronoi()(places);
-    console.log("Cells", cells);
+    console.log("Cells", cells.polygons().features);
     
     // Draws a Circle around the outside of the globe
     circle = svg.append("circle")
         .attr("cx", width / 2)
-      	.attr("cy", height / 2 + 10)
+      	.attr("cy", height / 2)
         .attr("r", proj.scale())
         .attr("class", "noclicks")
         .attr("fill", "none");
