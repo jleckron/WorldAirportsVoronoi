@@ -1,4 +1,9 @@
-// Sourced extensively from 
+// World Airports Voronoi Diagram Inspired by the Following Projects:
+//  - https://observablehq.com/@mbostock/world-airports-voronoi
+//  - https://observablehq.com/@d3/versor-dragging
+
+
+// Globe code sourced extensively from 
 // http://bl.ocks.org/tlfrd/df1f1f705c7940a6a7c0dca47041fec8
 // With many modifications
 
@@ -9,13 +14,14 @@ var width = 960,
 var proj = d3.geoOrthographic()
     .scale(scale)
     .translate([width / 2, height / 2 + 10])
-// change this to 180 for transparent globe
     .clipAngle(90)
-    .rotate([90,-20,0]);
+    .rotate([90, -20, 0]);
 
 
+// Set path to be a geoPath projection
 var path = d3.geoPath().projection(proj).pointRadius(3);
 
+// Grid lines
 var graticule = d3.geoGraticule();
   
 
@@ -33,6 +39,7 @@ svg.append("rect")
         .attr("fill", "none")
         .attr("stroke", "#777");
 
+// Call functions on user interaction
 svg.call(d3.drag()
         .on("start", dragstarted)
         .on("drag", dragged));
@@ -42,13 +49,13 @@ svg.call(d3.zoom()
 
 // Source of world topojson data and airport data
 // https://github.com/topojson/world-atlas
-src = [  "https://unpkg.com/world-atlas@1/world/110m.json",
-         "airports.json",
-         "https://unpkg.com/world-atlas@1/world/110m.json"
-     ];
+var src = [  "https://unpkg.com/world-atlas@1/world/110m.json",
+             "airports.json",
+             "https://unpkg.com/world-atlas@1/world/110m.json"
+        ];
 
 var cells;
-//Converted d4.v4 queue implementation to promise .then imlpementation
+// Converted d4.v4 queue implementation to promise .then imlpementation
 Promise.all(src.map(url => d3.json(url))).then(function(values){
     
     world=values[0];
@@ -99,6 +106,7 @@ Promise.all(src.map(url => d3.json(url))).then(function(values){
         .append("path")
         .attr("d", path);
     
+    // Draw Voronoi polygons around airport points
     polygon = svg.append("g")
         .selectAll("cell")
         .data(cells.polygons().features)
@@ -109,6 +117,7 @@ Promise.all(src.map(url => d3.json(url))).then(function(values){
         .attr("d", path)
         .style("opacity", .2);
     
+    // Append text to show highlighted airport area
     text = svg.append("text")
         .attr("x", 30)
         .attr("y", 30)
@@ -116,12 +125,13 @@ Promise.all(src.map(url => d3.json(url))).then(function(values){
         .text("Hover over an area");
 })
 
-
+// When mouse moves on canvas, find closest cell
 function moved() {
   findcell(proj.invert(d3.mouse(this)));
 }
 
-//Inspired by https://bl.ocks.org/Fil/e94fc45f5ed4dbcc989be1e52b797fdd
+// Inspired by https://bl.ocks.org/Fil/e94fc45f5ed4dbcc989be1e52b797fdd
+// Takes current cell and retreives data on it, and sets highlight color
 function findcell(m) {
     polygon.on("mouseover", function (d) {
         var point = d3.select(this);
@@ -133,6 +143,7 @@ function findcell(m) {
         console.log("Country = ", country);
         text.text("Closest large airport: " + name + ", " + municipality + ", " + country);
     })    
+    // If user leaves an area, set highlight to none and reset text
     .on("mouseout", function (d) {
         var point = d3.select(this);
         point._groups[0][0].style.fill = "";
