@@ -79,18 +79,26 @@ Promise.all(src.map(url => d3.json(url))).then(function(values){
         .attr("class", "noclicks")
         .attr("fill", "none");
     
-    // Draws outline of continents
-    svg.append("path")
-        .datum(topojson.feature(world50, world50.objects.land))
-        .attr("class", "land")
-        .attr("d", path);
-
     // Draws grid lines for latitude and longitude
     svg.append("path")
         .datum(graticule)
         .attr("class", "graticule noclicks")
         .attr("d", path);
-
+    
+    // Draws outline of continents
+    svg.append("path")
+        .datum(topojson.feature(world50, world50.objects.land))
+        .attr("class", "land")
+        .attr("d", path);
+  
+    // Draws outlines of countries
+    svg.append("g").attr("class", "countries")
+        .selectAll("path")
+        .data(topojson.feature(world110, world110.objects.countries).features)
+        .enter()
+        .append("path")
+        .attr("d", path);
+    
     // Draws airport points
     svg.append("g")
         .selectAll("circle")
@@ -100,14 +108,6 @@ Promise.all(src.map(url => d3.json(url))).then(function(values){
         .attr("fill", "red")
         .attr("d", path);
      
-  
-    // Draws outlines of countries
-    svg.append("g").attr("class", "countries")
-        .selectAll("path")
-        .data(topojson.feature(world110, world110.objects.countries).features)
-        .enter()
-        .append("path")
-        .attr("d", path);
     
     // Draw Voronoi polygons around airport points
     polygon = svg.append("g")
@@ -165,6 +165,7 @@ function findcell(m) {
 function refresh() {
     // When moving, set the path to 110m for greater responsivness
     svg.selectAll(".land").data(topojson.feature(world110, world110.objects.land).features).enter();
+    svg.selectAll(".country").datum(topojson.feature(world110, world110.objects.countries).features);
     svg.selectAll("circle").attr("r", proj.scale());
     svg.selectAll("path").attr("d", path);
 
@@ -196,5 +197,6 @@ function zoomed(){
 // Sets land path back to 50m for greater detail
 function revert(){
     svg.selectAll(".land").data(topojson.feature(world50, world50.objects.land).features).enter();
+    svg.selectAll(".country").data(topojson.feature(world50, world50.objects.countries).features).enter();
     svg.selectAll("path").attr("d", path);
 }
